@@ -1,0 +1,5484 @@
+{
+"layerStyles" : {
+"objects" : [
+{
+"do_objectID" : "1430BFBF-37BF-48B5-A7F4-B4588DB70FA6",
+"value" : {
+"_class" : "style",
+"borders" : [
+{
+"thickness" : 1,
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : false,
+"position" : 1,
+"color" : {
+"red" : 0.22745098039215689,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.22745098039215689,
+"green" : 0.22745098039215689
+}
+}
+],
+"miterLimit" : 10,
+"fills" : [
+{
+"_class" : "fill",
+"color" : {
+"red" : 0.22745098039215689,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.22745098039215689,
+"green" : 0.22745098039215689
+},
+"patternTileScale" : 1,
+"fillType" : 0,
+"noiseIntensity" : 0,
+"patternFillType" : 1,
+"noiseIndex" : 0,
+"isEnabled" : true
+}
+],
+"startMarkerType" : 0,
+"windingRule" : 1,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "colour\/gray"
+},
+{
+"do_objectID" : "465639FF-28B9-4B92-8BF8-8BBE073F93EB",
+"value" : {
+"_class" : "style",
+"borders" : [
+{
+"thickness" : 1,
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : false,
+"position" : 1,
+"color" : {
+"red" : 0.22745098039215689,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.22745098039215689,
+"green" : 0.22745098039215689
+}
+}
+],
+"miterLimit" : 10,
+"fills" : [
+{
+"_class" : "fill",
+"color" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.02745098039215688,
+"green" : 0.81176470588235294
+},
+"patternTileScale" : 1,
+"fillType" : 0,
+"noiseIntensity" : 0,
+"patternFillType" : 1,
+"noiseIndex" : 0,
+"isEnabled" : true
+}
+],
+"startMarkerType" : 0,
+"windingRule" : 1,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "colour\/yellow"
+},
+{
+"do_objectID" : "DACF5CC8-1CC2-499E-AAA6-D1061D01F44E",
+"value" : {
+"_class" : "style",
+"borders" : [
+{
+"thickness" : 1,
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : false,
+"position" : 1,
+"color" : {
+"red" : 0.22745098039215689,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.22745098039215689,
+"green" : 0.22745098039215689
+}
+}
+],
+"miterLimit" : 10,
+"fills" : [
+{
+"_class" : "fill",
+"color" : {
+"red" : 0,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.80784313725490198,
+"green" : 0.44705882352941179
+},
+"patternTileScale" : 1,
+"fillType" : 0,
+"noiseIntensity" : 0,
+"patternFillType" : 1,
+"noiseIndex" : 0,
+"isEnabled" : true
+}
+],
+"startMarkerType" : 0,
+"windingRule" : 1,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "colour\/blue"
+},
+{
+"do_objectID" : "7F7B4260-C4C6-44F3-AB73-C670BC5DE724",
+"value" : {
+"_class" : "style",
+"borders" : [
+{
+"thickness" : 1,
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : false,
+"position" : 1,
+"color" : {
+"red" : 0.22745098039215689,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.22745098039215689,
+"green" : 0.22745098039215689
+}
+}
+],
+"miterLimit" : 10,
+"fills" : [
+{
+"_class" : "fill",
+"color" : {
+"red" : 0.5725490196078431,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.56470588235294117,
+"green" : 0.57647058823529407
+},
+"patternTileScale" : 1,
+"fillType" : 0,
+"noiseIntensity" : 0,
+"patternFillType" : 1,
+"noiseIndex" : 0,
+"isEnabled" : true
+}
+],
+"startMarkerType" : 0,
+"windingRule" : 1,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "colour\/graylight "
+}
+],
+"_class" : "sharedStyleContainer"
+},
+"assets" : {
+"_class" : "assetCollection",
+"colorAssets" : [
+{
+"color" : {
+"red" : 0.22745098039215689,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.22745098039215689,
+"green" : 0.22745098039215689
+},
+"_class" : "MSImmutableColorAsset"
+}
+],
+"images" : [
+
+],
+"colors" : [
+{
+"red" : 0.22745098039215689,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.22745098039215689,
+"green" : 0.22745098039215689
+}
+],
+"gradientAssets" : [
+
+],
+"imageCollection" : {
+"images" : {
+
+},
+"_class" : "imageCollection"
+},
+"gradients" : [
+
+]
+},
+"pages" : [
+{
+"_ref_class" : "MSImmutablePage",
+"_class" : "MSJSONFileReference",
+"_ref" : "pages\/9C092F58-1AED-4E94-9F55-7F9900487CA0"
+},
+{
+"_ref_class" : "MSImmutablePage",
+"_class" : "MSJSONFileReference",
+"_ref" : "pages\/A04883DB-48BE-4856-BA6C-FD880FF5F656"
+}
+],
+"foreignSymbols" : [
+
+],
+"currentPageIndex" : 1,
+"_class" : "document",
+"foreignLayerStyles" : [
+
+],
+"colorSpace" : 0,
+"layerTextStyles" : {
+"objects" : [
+{
+"do_objectID" : "D5B49218-2517-4660-ACBA-7F241589C1C7",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Medium",
+"size" : 20
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.1372549019607843,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.2156862745098039,
+"green" : 0.19607843137254899
+},
+"ligature" : 0,
+"kerning" : 0.1875,
+"paragraphStyle" : {
+"minimumLineHeight" : 24,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 24,
+"allowsDefaultTighteningForTruncation" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/s\/s1\/graydark\/left"
+},
+{
+"do_objectID" : "3F2C27F5-DA63-4C25-A2E3-A33EEAF9445B",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Regular",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.1372549019607843,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.2156862745098039,
+"green" : 0.19607843137254899
+},
+"ligature" : 0,
+"kerning" : 0.10000000000000001,
+"paragraphStyle" : {
+"alignment" : 1,
+"minimumLineHeight" : 24,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 24,
+"allowsDefaultTighteningForTruncation" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/s\/s2\/graydark\/right"
+},
+{
+"do_objectID" : "9466844F-187C-4519-B649-15C5778A6802",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Medium",
+"size" : 16
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.1372549019607843,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.2156862745098039,
+"green" : 0.19607843137254899
+},
+"ligature" : 0,
+"kerning" : 0.14999999999999999,
+"paragraphStyle" : {
+"alignment" : 1,
+"minimumLineHeight" : 24,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 24,
+"allowsDefaultTighteningForTruncation" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/s\/s1\/graydark\/right"
+},
+{
+"do_objectID" : "D21867C7-A503-42C0-BFD7-06200C5B998D",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Regular",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.1372549019607843,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.2156862745098039,
+"green" : 0.19607843137254899
+},
+"ligature" : 0,
+"kerning" : 0.10000000000000001,
+"paragraphStyle" : {
+"alignment" : 2,
+"minimumLineHeight" : 24,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 24,
+"allowsDefaultTighteningForTruncation" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/s\/s2\/graydark\/center"
+},
+{
+"do_objectID" : "54544891-07B0-4F5D-8110-E2EAA72D1339",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Regular",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.1372549019607843,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.2156862745098039,
+"green" : 0.19607843137254899
+},
+"ligature" : 0,
+"kerning" : 0.46666669999999999,
+"paragraphStyle" : {
+"alignment" : 1,
+"minimumLineHeight" : 12,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 12,
+"allowsDefaultTighteningForTruncation" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/label\/graydark\/right"
+},
+{
+"do_objectID" : "DD0B1483-CB52-49E2-B5DB-A25A48BAABA9",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Medium",
+"size" : 60
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.1372549019607843,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.2156862745098039,
+"green" : 0.19607843137254899
+},
+"ligature" : 0,
+"kerning" : -0.5,
+"paragraphStyle" : {
+"allowsDefaultTighteningForTruncation" : 0,
+"_class" : "paragraphStyle",
+"alignment" : 1
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/h\/h2\/graydark\/right"
+},
+{
+"do_objectID" : "B1289E1E-04C4-48A3-8441-3BCB9248CC26",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Medium",
+"size" : 34
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.1372549019607843,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.2156862745098039,
+"green" : 0.19607843137254899
+},
+"ligature" : 0,
+"kerning" : 0.25,
+"paragraphStyle" : {
+"allowsDefaultTighteningForTruncation" : 0,
+"_class" : "paragraphStyle",
+"alignment" : 1
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/h\/h4\/graydark\/right"
+},
+{
+"do_objectID" : "8450AECE-3351-436E-917E-3B4B23B097D2",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Regular",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.1372549019607843,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.2156862745098039,
+"green" : 0.19607843137254899
+},
+"ligature" : 0,
+"kerning" : 0.25,
+"paragraphStyle" : {
+"minimumLineHeight" : 20,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 20,
+"allowsDefaultTighteningForTruncation" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/b\/b2\/graydark\/left"
+},
+{
+"do_objectID" : "6AEB88A2-A8D9-462D-B8C1-AC3F1A25059A",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Medium",
+"size" : 60
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.1372549019607843,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.2156862745098039,
+"green" : 0.19607843137254899
+},
+"ligature" : 0,
+"kerning" : -0.5,
+"paragraphStyle" : {
+"allowsDefaultTighteningForTruncation" : 0,
+"_class" : "paragraphStyle"
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/h\/h2\/graydark\/left"
+},
+{
+"do_objectID" : "56D68219-40D0-472C-9431-305C84023B3B",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Medium",
+"size" : 16
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.1372549019607843,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.2156862745098039,
+"green" : 0.19607843137254899
+},
+"ligature" : 0,
+"kerning" : 0.14999999999999999,
+"paragraphStyle" : {
+"alignment" : 2,
+"minimumLineHeight" : 24,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 24,
+"allowsDefaultTighteningForTruncation" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/s\/s1\/graydark\/center"
+},
+{
+"do_objectID" : "36EB491A-9131-4AB4-A466-8D94600069E3",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Medium",
+"size" : 34
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.1372549019607843,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.2156862745098039,
+"green" : 0.19607843137254899
+},
+"ligature" : 0,
+"kerning" : 0.25,
+"paragraphStyle" : {
+"allowsDefaultTighteningForTruncation" : 0,
+"_class" : "paragraphStyle",
+"alignment" : 2
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/h\/h4\/graydark\/center"
+},
+{
+"do_objectID" : "A1A783D6-5075-4FE5-B61B-025725470EF4",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Regular",
+"size" : 16
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.1372549019607843,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.2156862745098039,
+"green" : 0.19607843137254899
+},
+"ligature" : 0,
+"kerning" : 0.44444440000000002,
+"paragraphStyle" : {
+"alignment" : 2,
+"minimumLineHeight" : 28,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 28,
+"allowsDefaultTighteningForTruncation" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/b\/b1\/graydark\/center"
+},
+{
+"do_objectID" : "04D6ACAA-276B-4E41-8FDF-481E8B778A28",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Regular",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.1372549019607843,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.2156862745098039,
+"green" : 0.19607843137254899
+},
+"ligature" : 0,
+"kerning" : 0.46666669999999999,
+"paragraphStyle" : {
+"minimumLineHeight" : 12,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 12,
+"allowsDefaultTighteningForTruncation" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/label\/graydark\/left"
+},
+{
+"do_objectID" : "BB5CA7BD-2363-4C5B-938F-801775C40595",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Medium",
+"size" : 13
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : 0.61000001430511475,
+"MSAttributedStringColorAttribute" : {
+"red" : 0.28235294117647058,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.35686274509803922,
+"green" : 0.32941176470588229
+},
+"MSAttributedStringTextTransformAttribute" : 1,
+"ligature" : 0,
+"paragraphStyle" : {
+"allowsDefaultTighteningForTruncation" : 0,
+"_class" : "paragraphStyle",
+"alignment" : 2
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/button\/graydark\/center"
+},
+{
+"do_objectID" : "46904B37-9ABF-4ADC-8E48-2A4A763606E9",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Regular",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.1372549019607843,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.2156862745098039,
+"green" : 0.19607843137254899
+},
+"ligature" : 0,
+"kerning" : 0.27000001072883612,
+"paragraphStyle" : {
+"alignment" : 2,
+"minimumLineHeight" : 17,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 17,
+"allowsDefaultTighteningForTruncation" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/li\/graydark\/center"
+},
+{
+"do_objectID" : "E82694C7-EB2C-491F-9B47-F36FCC4A43A4",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Regular",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.1372549019607843,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.2156862745098039,
+"green" : 0.19607843137254899
+},
+"ligature" : 0,
+"kerning" : 0.27000001072883612,
+"paragraphStyle" : {
+"alignment" : 1,
+"minimumLineHeight" : 17,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 17,
+"allowsDefaultTighteningForTruncation" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/li\/graydark\/right"
+},
+{
+"do_objectID" : "5C9CE0AE-4290-46F3-8364-376DC91DD300",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Medium",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : 1.3500000238418579,
+"MSAttributedStringColorAttribute" : {
+"red" : 0.1372549019607843,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.2156862745098039,
+"green" : 0.19607843137254899
+},
+"MSAttributedStringTextTransformAttribute" : 1,
+"ligature" : 0,
+"paragraphStyle" : {
+"allowsDefaultTighteningForTruncation" : 0,
+"_class" : "paragraphStyle",
+"alignment" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/button\/graydark\/left"
+},
+{
+"do_objectID" : "45CAB076-7DC4-4A67-B313-30E962A5879A",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Medium",
+"size" : 70
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.1372549019607843,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.2156862745098039,
+"green" : 0.19607843137254899
+},
+"ligature" : 0,
+"kerning" : -1.09375,
+"paragraphStyle" : {
+"allowsDefaultTighteningForTruncation" : 0,
+"_class" : "paragraphStyle"
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/h\/h1\/graydark\/left"
+},
+{
+"do_objectID" : "D9C54EBC-5E4D-4638-891E-9991760BFDE2",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Medium",
+"size" : 60
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.1372549019607843,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.2156862745098039,
+"green" : 0.19607843137254899
+},
+"ligature" : 0,
+"kerning" : -0.5,
+"paragraphStyle" : {
+"allowsDefaultTighteningForTruncation" : 0,
+"_class" : "paragraphStyle",
+"alignment" : 2
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/h\/h2\/graydark\/center"
+},
+{
+"do_objectID" : "DCE3D3B2-D342-4AF7-BBE1-45AB55A02228",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Medium",
+"size" : 70
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.1372549019607843,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.2156862745098039,
+"green" : 0.19607843137254899
+},
+"ligature" : 0,
+"kerning" : -1.09375,
+"paragraphStyle" : {
+"allowsDefaultTighteningForTruncation" : 0,
+"_class" : "paragraphStyle",
+"alignment" : 2
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/h\/h1\/graydark\/center"
+},
+{
+"do_objectID" : "A46FB34A-3FA9-4B3E-9A0B-C647E600E921",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Regular",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.1372549019607843,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.2156862745098039,
+"green" : 0.19607843137254899
+},
+"ligature" : 0,
+"kerning" : 0.25,
+"paragraphStyle" : {
+"alignment" : 2,
+"minimumLineHeight" : 20,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 20,
+"allowsDefaultTighteningForTruncation" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/b\/b2\/graydark\/center"
+},
+{
+"do_objectID" : "914C0228-B336-455E-91E6-0B754FF75DDF",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Medium",
+"size" : 34
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.1372549019607843,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.2156862745098039,
+"green" : 0.19607843137254899
+},
+"ligature" : 0,
+"kerning" : 0.25,
+"paragraphStyle" : {
+"allowsDefaultTighteningForTruncation" : 0,
+"_class" : "paragraphStyle"
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/h\/h4\/graydark\/left"
+},
+{
+"do_objectID" : "91748EF3-FBBA-4ECA-9176-795731EA7F14",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Regular",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.1372549019607843,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.2156862745098039,
+"green" : 0.19607843137254899
+},
+"ligature" : 0,
+"kerning" : 0.25,
+"paragraphStyle" : {
+"alignment" : 1,
+"minimumLineHeight" : 20,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 20,
+"allowsDefaultTighteningForTruncation" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/b\/b2\/graydark\/right"
+},
+{
+"do_objectID" : "FCB860DB-FCF2-4FFA-871C-E2359DF4FFB1",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Medium",
+"size" : 48
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.1372549019607843,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.2156862745098039,
+"green" : 0.19607843137254899
+},
+"ligature" : 0,
+"paragraphStyle" : {
+"allowsDefaultTighteningForTruncation" : 0,
+"_class" : "paragraphStyle",
+"alignment" : 2
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/h\/h3\/graydark\/center"
+},
+{
+"do_objectID" : "177D3D8F-0EC6-4D3F-A34E-687A5ABCACD4",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Medium",
+"size" : 70
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.28235294117647058,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.35686274509803922,
+"green" : 0.32941176470588229
+},
+"ligature" : 0,
+"kerning" : -1.09375,
+"paragraphStyle" : {
+"allowsDefaultTighteningForTruncation" : 0,
+"_class" : "paragraphStyle",
+"alignment" : 1
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/h\/h1\/graydark\/right"
+},
+{
+"do_objectID" : "F2E922B1-E2DC-4075-898E-F900F618A615",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Regular",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.1372549019607843,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.2156862745098039,
+"green" : 0.19607843137254899
+},
+"ligature" : 0,
+"kerning" : 0.46666669999999999,
+"paragraphStyle" : {
+"alignment" : 2,
+"minimumLineHeight" : 12,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 12,
+"allowsDefaultTighteningForTruncation" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/label\/graydark\/center"
+},
+{
+"do_objectID" : "46767A41-A9CE-4F6B-BA4B-3C901D33F4B2",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Medium",
+"size" : 48
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.1372549019607843,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.2156862745098039,
+"green" : 0.19607843137254899
+},
+"ligature" : 0,
+"paragraphStyle" : {
+"allowsDefaultTighteningForTruncation" : 0,
+"_class" : "paragraphStyle"
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/h\/h3\/graydark\/left"
+},
+{
+"do_objectID" : "C8482CB3-FE5A-4969-8B33-DA70844B9EFE",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Medium",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : 1.3500000238418579,
+"MSAttributedStringColorAttribute" : {
+"red" : 0.1372549019607843,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.2156862745098039,
+"green" : 0.19607843137254899
+},
+"MSAttributedStringTextTransformAttribute" : 1,
+"ligature" : 0,
+"paragraphStyle" : {
+"allowsDefaultTighteningForTruncation" : 0,
+"_class" : "paragraphStyle",
+"alignment" : 1
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/button\/graydark\/right"
+},
+{
+"do_objectID" : "136F9BD8-4D06-412D-BACE-CA6F2BC6601B",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Regular",
+"size" : 16
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.1372549019607843,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.2156862745098039,
+"green" : 0.19607843137254899
+},
+"ligature" : 0,
+"kerning" : 0.44444440000000002,
+"paragraphStyle" : {
+"minimumLineHeight" : 28,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 28,
+"allowsDefaultTighteningForTruncation" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/b\/b1\/graydark\/left"
+},
+{
+"do_objectID" : "D70AFE81-A6D3-43BF-B82D-934B48017B7B",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Regular",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.1372549019607843,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.2156862745098039,
+"green" : 0.19607843137254899
+},
+"ligature" : 0,
+"kerning" : 0.27000001072883612,
+"paragraphStyle" : {
+"minimumLineHeight" : 17,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 17,
+"allowsDefaultTighteningForTruncation" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/li\/graydark\/left"
+},
+{
+"do_objectID" : "7037B1A2-4153-4B60-95C8-E2DCDEC225A7",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Medium",
+"size" : 48
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.1372549019607843,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.2156862745098039,
+"green" : 0.19607843137254899
+},
+"ligature" : 0,
+"paragraphStyle" : {
+"allowsDefaultTighteningForTruncation" : 0,
+"_class" : "paragraphStyle",
+"alignment" : 1
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/h\/h3\/graydark\/right"
+},
+{
+"do_objectID" : "4655439B-9E27-4F69-9318-D053B48F31AE",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Regular",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.1372549019607843,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.2156862745098039,
+"green" : 0.19607843137254899
+},
+"ligature" : 0,
+"kerning" : 0.10000000000000001,
+"paragraphStyle" : {
+"minimumLineHeight" : 24,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 24,
+"allowsDefaultTighteningForTruncation" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/s\/s2\/graydark\/left"
+},
+{
+"do_objectID" : "F1648F64-A320-4FD0-8DE7-E6E98D2B209B",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Regular",
+"size" : 16
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.1372549019607843,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.2156862745098039,
+"green" : 0.19607843137254899
+},
+"ligature" : 0,
+"kerning" : 0.44444440000000002,
+"paragraphStyle" : {
+"alignment" : 1,
+"minimumLineHeight" : 28,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 28,
+"allowsDefaultTighteningForTruncation" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/b\/b1\/graydark\/right"
+},
+{
+"do_objectID" : "3B8999C4-7929-4610-BBDD-5C103607290A",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 0.22745098039215689,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.22745098039215689,
+"green" : 0.22745098039215689
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue-Medium",
+"size" : 70
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : -1.09375,
+"paragraphStyle" : {
+"allowsDefaultTighteningForTruncation" : 0,
+"_class" : "paragraphStyle"
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/h\/h1\/gray\/left "
+},
+{
+"do_objectID" : "F17C8A11-7EF0-4B93-B0CD-81BEEAEDA8B0",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 0.22745098039215689,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.22745098039215689,
+"green" : 0.22745098039215689
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue-Medium",
+"size" : 60
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : -0.5,
+"paragraphStyle" : {
+"allowsDefaultTighteningForTruncation" : 0,
+"_class" : "paragraphStyle"
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/h\/h2\/gray\/left"
+},
+{
+"do_objectID" : "AA3FBAD8-828A-4464-BCB4-43D0776A32B7",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 0.22745098039215689,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.22745098039215689,
+"green" : 0.22745098039215689
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue-Medium",
+"size" : 48
+},
+"_class" : "fontDescriptor"
+},
+"paragraphStyle" : {
+"allowsDefaultTighteningForTruncation" : 0,
+"_class" : "paragraphStyle"
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/h\/h3\/gray\/left "
+},
+{
+"do_objectID" : "76474D69-3C4C-4997-A08B-BDF4A923B702",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 0.22745098039215689,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.22745098039215689,
+"green" : 0.22745098039215689
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue-Medium",
+"size" : 34
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : 0.25,
+"paragraphStyle" : {
+"allowsDefaultTighteningForTruncation" : 0,
+"_class" : "paragraphStyle"
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/h\/h4\/gray\/left "
+},
+{
+"do_objectID" : "7BCDF9AB-698B-45B6-8779-3416A49E3DBA",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 0.22745098039215689,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.22745098039215689,
+"green" : 0.22745098039215689
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue-Medium",
+"size" : 20
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : 0.1875,
+"paragraphStyle" : {
+"minimumLineHeight" : 24,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 24,
+"allowsDefaultTighteningForTruncation" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/s\/s1\/gray\/left "
+},
+{
+"do_objectID" : "85A59F3F-86AF-4054-983F-4A68BFB5E4BE",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 0.22745098039215689,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.22745098039215689,
+"green" : 0.22745098039215689
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : 0.10000000000000001,
+"paragraphStyle" : {
+"minimumLineHeight" : 24,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 24,
+"allowsDefaultTighteningForTruncation" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/s\/s2\/gray\/left "
+},
+{
+"do_objectID" : "DDC327D3-4E09-4D00-AEF3-DB66B1D99D53",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 0.22745098039215689,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.22745098039215689,
+"green" : 0.22745098039215689
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue",
+"size" : 16
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : 0.44444440000000002,
+"paragraphStyle" : {
+"minimumLineHeight" : 28,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 28,
+"allowsDefaultTighteningForTruncation" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/b\/b1\/gray\/left "
+},
+{
+"do_objectID" : "5734E97F-C95A-48FA-A856-CB382FFC164D",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 0.22745098039215689,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.22745098039215689,
+"green" : 0.22745098039215689
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : 0.25,
+"paragraphStyle" : {
+"minimumLineHeight" : 20,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 20,
+"allowsDefaultTighteningForTruncation" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/b\/b2\/gray\/left "
+},
+{
+"do_objectID" : "699FAC27-20FA-4DE8-9233-B9ADA902F026",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue-Medium",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : 1.3500000238418579,
+"MSAttributedStringColorAttribute" : {
+"red" : 0.22745098039215689,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.22745098039215689,
+"green" : 0.22745098039215689
+},
+"MSAttributedStringTextTransformAttribute" : 1,
+"ligature" : 0,
+"paragraphStyle" : {
+"allowsDefaultTighteningForTruncation" : 0,
+"_class" : "paragraphStyle",
+"alignment" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/button\/gray\/left "
+},
+{
+"do_objectID" : "93598600-DF72-40C6-AD11-8C6994DB7FFB",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 0.22745098039215689,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.22745098039215689,
+"green" : 0.22745098039215689
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : 0.27000000000000002,
+"paragraphStyle" : {
+"minimumLineHeight" : 17,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 17,
+"allowsDefaultTighteningForTruncation" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/li\/gray\/left "
+},
+{
+"do_objectID" : "6986F5FD-47CA-4C84-A404-AE14F06E337F",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 0.22745098039215689,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.22745098039215689,
+"green" : 0.22745098039215689
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : 0.46666669999999999,
+"paragraphStyle" : {
+"minimumLineHeight" : 12,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 12,
+"allowsDefaultTighteningForTruncation" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/label\/gray\/left "
+},
+{
+"do_objectID" : "40D195FD-F0C3-49AE-ADA3-89D21FA03DDC",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 0.22745098039215689,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.22745098039215689,
+"green" : 0.22745098039215689
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue-Medium",
+"size" : 60
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : -0.5,
+"paragraphStyle" : {
+"allowsDefaultTighteningForTruncation" : 0,
+"_class" : "paragraphStyle",
+"alignment" : 2
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/h\/h2\/gray\/center "
+},
+{
+"do_objectID" : "B6C6938D-7DF8-4039-B73D-D50DEE95ABB5",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 0.22745098039215689,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.22745098039215689,
+"green" : 0.22745098039215689
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue-Medium",
+"size" : 48
+},
+"_class" : "fontDescriptor"
+},
+"paragraphStyle" : {
+"allowsDefaultTighteningForTruncation" : 0,
+"_class" : "paragraphStyle",
+"alignment" : 2
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/h\/h3\/gray\/center "
+},
+{
+"do_objectID" : "A349DB30-F689-4AF7-95D6-9FF20FCF4EFB",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 0.22745098039215689,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.22745098039215689,
+"green" : 0.22745098039215689
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue-Medium",
+"size" : 34
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : 0.25,
+"paragraphStyle" : {
+"allowsDefaultTighteningForTruncation" : 0,
+"_class" : "paragraphStyle",
+"alignment" : 2
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/h\/h4\/gray\/center "
+},
+{
+"do_objectID" : "80F2DF2C-DF7B-476B-80E4-BEB76D35055F",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 0.22745098039215689,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.22745098039215689,
+"green" : 0.22745098039215689
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue-Medium",
+"size" : 16
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : 0.14999999999999999,
+"paragraphStyle" : {
+"alignment" : 2,
+"minimumLineHeight" : 24,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 24,
+"allowsDefaultTighteningForTruncation" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/s\/s1\/gray\/center "
+},
+{
+"do_objectID" : "59953D5C-8E1A-412A-892D-488919BB73AF",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 0.22745098039215689,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.22745098039215689,
+"green" : 0.22745098039215689
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : 0.10000000000000001,
+"paragraphStyle" : {
+"alignment" : 2,
+"minimumLineHeight" : 24,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 24,
+"allowsDefaultTighteningForTruncation" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/s\/s2\/gray\/center "
+},
+{
+"do_objectID" : "BDD5DE0A-3033-4D09-94B0-72D16A317DE2",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 0.22745098039215689,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.22745098039215689,
+"green" : 0.22745098039215689
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue",
+"size" : 16
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : 0.44444440000000002,
+"paragraphStyle" : {
+"alignment" : 2,
+"minimumLineHeight" : 28,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 28,
+"allowsDefaultTighteningForTruncation" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/b\/b1\/gray\/center "
+},
+{
+"do_objectID" : "26762D8C-303B-422C-B7F2-C5F79F1B74DE",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 0.22745098039215689,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.22745098039215689,
+"green" : 0.22745098039215689
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : 0.25,
+"paragraphStyle" : {
+"alignment" : 2,
+"minimumLineHeight" : 20,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 20,
+"allowsDefaultTighteningForTruncation" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/b\/b2\/gray\/center "
+},
+{
+"do_objectID" : "D1563E65-BE02-4C61-B1AC-E639513E3676",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue-Medium",
+"size" : 13
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : 0.61000001430511475,
+"MSAttributedStringColorAttribute" : {
+"red" : 0.22745098039215689,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.22745098039215689,
+"green" : 0.22745098039215689
+},
+"MSAttributedStringTextTransformAttribute" : 1,
+"ligature" : 0,
+"paragraphStyle" : {
+"allowsDefaultTighteningForTruncation" : 0,
+"_class" : "paragraphStyle",
+"alignment" : 2
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/button\/gray\/center "
+},
+{
+"do_objectID" : "0517B281-F002-4333-A3CB-5089948798A5",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 0.22745098039215689,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.22745098039215689,
+"green" : 0.22745098039215689
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : 0.27000000000000002,
+"paragraphStyle" : {
+"alignment" : 2,
+"minimumLineHeight" : 17,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 17,
+"allowsDefaultTighteningForTruncation" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/li\/gray\/center "
+},
+{
+"do_objectID" : "822A61C5-E93A-45AE-A6CA-4572CDB4F3A4",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 0.22745098039215689,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.22745098039215689,
+"green" : 0.22745098039215689
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : 0.46666669999999999,
+"paragraphStyle" : {
+"alignment" : 2,
+"minimumLineHeight" : 12,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 12,
+"allowsDefaultTighteningForTruncation" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/label\/gray\/center "
+},
+{
+"do_objectID" : "CE91D61E-81D7-4A97-823C-1F6B2F760CB2",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 0.22745098039215689,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.22745098039215689,
+"green" : 0.22745098039215689
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue-Medium",
+"size" : 60
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : -0.5,
+"paragraphStyle" : {
+"allowsDefaultTighteningForTruncation" : 0,
+"_class" : "paragraphStyle",
+"alignment" : 1
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/h\/h2\/gray\/right "
+},
+{
+"do_objectID" : "77A65A73-76ED-4034-92D1-A4691479375E",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 0.22745098039215689,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.22745098039215689,
+"green" : 0.22745098039215689
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue-Medium",
+"size" : 48
+},
+"_class" : "fontDescriptor"
+},
+"paragraphStyle" : {
+"allowsDefaultTighteningForTruncation" : 0,
+"_class" : "paragraphStyle",
+"alignment" : 1
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/h\/h3\/gray\/right "
+},
+{
+"do_objectID" : "9F05FC8F-2FAA-4072-9E07-DB84760E3CBA",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 0.22745098039215689,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.22745098039215689,
+"green" : 0.22745098039215689
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue-Medium",
+"size" : 34
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : 0.25,
+"paragraphStyle" : {
+"allowsDefaultTighteningForTruncation" : 0,
+"_class" : "paragraphStyle",
+"alignment" : 1
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/h\/h4\/gray\/right "
+},
+{
+"do_objectID" : "530E0BB7-2A67-41C4-815F-E4B2D7F7A65D",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 0.22745098039215689,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.22745098039215689,
+"green" : 0.22745098039215689
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue-Medium",
+"size" : 16
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : 0.14999999999999999,
+"paragraphStyle" : {
+"alignment" : 1,
+"minimumLineHeight" : 24,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 24,
+"allowsDefaultTighteningForTruncation" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/s\/s1\/gray\/right "
+},
+{
+"do_objectID" : "9640DEDB-5DD3-441E-B020-247F432AF656",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 0.22745098039215689,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.22745098039215689,
+"green" : 0.22745098039215689
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue",
+"size" : 16
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : 0.44444440000000002,
+"paragraphStyle" : {
+"alignment" : 1,
+"minimumLineHeight" : 28,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 28,
+"allowsDefaultTighteningForTruncation" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/b\/b1\/gray\/right "
+},
+{
+"do_objectID" : "ED3FD805-4A13-4077-8559-91DDF8AC25C3",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 0.22745098039215689,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.22745098039215689,
+"green" : 0.22745098039215689
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : 0.25,
+"paragraphStyle" : {
+"alignment" : 1,
+"minimumLineHeight" : 20,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 20,
+"allowsDefaultTighteningForTruncation" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/b\/b2\/gray\/right "
+},
+{
+"do_objectID" : "1DE3AB0F-685D-447E-B13F-69C722D626C0",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue-Medium",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : 1.3500000238418579,
+"MSAttributedStringColorAttribute" : {
+"red" : 0.22745098039215689,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.22745098039215689,
+"green" : 0.22745098039215689
+},
+"MSAttributedStringTextTransformAttribute" : 1,
+"ligature" : 0,
+"paragraphStyle" : {
+"allowsDefaultTighteningForTruncation" : 0,
+"_class" : "paragraphStyle",
+"alignment" : 1
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/button\/gray\/right "
+},
+{
+"do_objectID" : "7C17B188-C15D-4BBC-BF79-5DA7A749CC17",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 0.22745098039215689,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.22745098039215689,
+"green" : 0.22745098039215689
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : 0.27000000000000002,
+"paragraphStyle" : {
+"alignment" : 1,
+"minimumLineHeight" : 17,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 17,
+"allowsDefaultTighteningForTruncation" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/li\/gray\/right "
+},
+{
+"do_objectID" : "456DA600-983F-48F8-98A3-D6C0BBF597E2",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 0.22745098039215689,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.22745098039215689,
+"green" : 0.22745098039215689
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : 0.46666669999999999,
+"paragraphStyle" : {
+"alignment" : 1,
+"minimumLineHeight" : 12,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 12,
+"allowsDefaultTighteningForTruncation" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/label\/gray\/right "
+},
+{
+"do_objectID" : "19EEBF53-6616-4B2D-9CF0-E585EE44F016",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue-Medium",
+"size" : 70
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : -1.09375,
+"paragraphStyle" : {
+"allowsDefaultTighteningForTruncation" : 0,
+"_class" : "paragraphStyle"
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/h\/h1\/white\/left  "
+},
+{
+"do_objectID" : "268901DA-E09A-416B-9F3A-72CBD4B7A8A2",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue-Medium",
+"size" : 60
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : -0.5,
+"paragraphStyle" : {
+"allowsDefaultTighteningForTruncation" : 0,
+"_class" : "paragraphStyle"
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/h\/h2\/white\/left 2"
+},
+{
+"do_objectID" : "678D96FE-5958-4877-A028-9FF2185C4369",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue-Medium",
+"size" : 48
+},
+"_class" : "fontDescriptor"
+},
+"paragraphStyle" : {
+"allowsDefaultTighteningForTruncation" : 0,
+"_class" : "paragraphStyle"
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/h\/h3\/white\/left  2"
+},
+{
+"do_objectID" : "D8A265A9-70AF-4930-BAB1-0CFD4255934E",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue-Medium",
+"size" : 34
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : 0.25,
+"paragraphStyle" : {
+"allowsDefaultTighteningForTruncation" : 0,
+"_class" : "paragraphStyle"
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/h\/h4\/white\/left  2"
+},
+{
+"do_objectID" : "A793308A-3120-4E17-BD7D-2459BE424698",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue-Medium",
+"size" : 20
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : 0.1875,
+"paragraphStyle" : {
+"minimumLineHeight" : 24,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 24,
+"allowsDefaultTighteningForTruncation" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/s\/s1\/white\/left  2"
+},
+{
+"do_objectID" : "69DA89D3-8760-418F-9443-E2CED0F8AFA5",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : 0.10000000000000001,
+"paragraphStyle" : {
+"minimumLineHeight" : 24,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 24,
+"allowsDefaultTighteningForTruncation" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/s\/s2\/white\/left  2"
+},
+{
+"do_objectID" : "F5F25C99-95F7-48B2-8F83-E5E69F9D5E2F",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue",
+"size" : 16
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : 0.44444440000000002,
+"paragraphStyle" : {
+"minimumLineHeight" : 28,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 28,
+"allowsDefaultTighteningForTruncation" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/b\/b1\/white\/left  2"
+},
+{
+"do_objectID" : "DA82A5FA-4C28-4960-8809-0D0EE2550BE8",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : 0.25,
+"paragraphStyle" : {
+"minimumLineHeight" : 20,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 20,
+"allowsDefaultTighteningForTruncation" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/b\/b2\/white\/left  2"
+},
+{
+"do_objectID" : "EB65A05B-12D4-42C4-8ADF-D9F8620AFEEB",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue-Medium",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : 1.3500000238418579,
+"MSAttributedStringColorAttribute" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"MSAttributedStringTextTransformAttribute" : 1,
+"ligature" : 0,
+"paragraphStyle" : {
+"allowsDefaultTighteningForTruncation" : 0,
+"_class" : "paragraphStyle",
+"alignment" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/button\/white\/left  2"
+},
+{
+"do_objectID" : "0A967E73-5E02-42B2-A0F9-54C34A4D1F67",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : 0.27000000000000002,
+"paragraphStyle" : {
+"minimumLineHeight" : 17,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 17,
+"allowsDefaultTighteningForTruncation" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/li\/white\/left  "
+},
+{
+"do_objectID" : "A3B68716-9C7D-4E26-AE71-2AD3ED9A6FBE",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue-Medium",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : 1.3500000238418579,
+"MSAttributedStringColorAttribute" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"MSAttributedStringTextTransformAttribute" : 1,
+"ligature" : 0,
+"paragraphStyle" : {
+"allowsDefaultTighteningForTruncation" : 0,
+"_class" : "paragraphStyle",
+"alignment" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/button\/white\/left  "
+},
+{
+"do_objectID" : "DCE9C4D1-3C03-493B-ACF8-9AF5F4AFAFC8",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : 0.46666669999999999,
+"paragraphStyle" : {
+"minimumLineHeight" : 12,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 12,
+"allowsDefaultTighteningForTruncation" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/label\/white\/left  "
+},
+{
+"do_objectID" : "0B6D4CA4-E3B4-4ED1-AEEC-BF3F34EBF1E5",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue-Medium",
+"size" : 70
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : -1.09375,
+"paragraphStyle" : {
+"allowsDefaultTighteningForTruncation" : 0,
+"_class" : "paragraphStyle",
+"alignment" : 2
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/h\/h1\/white\/center "
+},
+{
+"do_objectID" : "B4D5944A-836C-4654-948A-8A45A526EFA9",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue-Medium",
+"size" : 60
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : -0.5,
+"paragraphStyle" : {
+"allowsDefaultTighteningForTruncation" : 0,
+"_class" : "paragraphStyle",
+"alignment" : 2
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/h\/h2\/white\/center  "
+},
+{
+"do_objectID" : "4C113EA9-D292-41EA-8790-BAF6C17FA54F",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue-Medium",
+"size" : 48
+},
+"_class" : "fontDescriptor"
+},
+"paragraphStyle" : {
+"allowsDefaultTighteningForTruncation" : 0,
+"_class" : "paragraphStyle",
+"alignment" : 2
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/h\/h3\/white\/center  "
+},
+{
+"do_objectID" : "19927EBD-C22C-4E7F-8902-14EFD344B547",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue-Medium",
+"size" : 34
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : 0.25,
+"paragraphStyle" : {
+"allowsDefaultTighteningForTruncation" : 0,
+"_class" : "paragraphStyle",
+"alignment" : 2
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/h\/h4\/white\/center  "
+},
+{
+"do_objectID" : "24BE1A8B-71FB-4DC8-96AE-CF3070F0C781",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue-Medium",
+"size" : 16
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : 0.14999999999999999,
+"paragraphStyle" : {
+"alignment" : 2,
+"minimumLineHeight" : 24,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 24,
+"allowsDefaultTighteningForTruncation" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/s\/s1\/whitecenter  "
+},
+{
+"do_objectID" : "DB730987-61FE-499C-90FB-FC283CD34E1D",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : 0.10000000000000001,
+"paragraphStyle" : {
+"alignment" : 2,
+"minimumLineHeight" : 24,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 24,
+"allowsDefaultTighteningForTruncation" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/s\/s2\/white\/center  "
+},
+{
+"do_objectID" : "FBE14CEE-BD2E-4C52-AB44-CB69E028E9A5",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue",
+"size" : 16
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : 0.44444440000000002,
+"paragraphStyle" : {
+"alignment" : 2,
+"minimumLineHeight" : 28,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 28,
+"allowsDefaultTighteningForTruncation" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/b\/b1\/white\/center  "
+},
+{
+"do_objectID" : "0BA5F506-E914-4BB8-AB59-C70D0AF8B866",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : 0.25,
+"paragraphStyle" : {
+"alignment" : 2,
+"minimumLineHeight" : 20,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 20,
+"allowsDefaultTighteningForTruncation" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/b\/b2\/white\/center  "
+},
+{
+"do_objectID" : "70D31C7F-BDDB-4DA6-9D6B-7EC13CA37410",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue-Medium",
+"size" : 13
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : 0.61000001430511475,
+"MSAttributedStringColorAttribute" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"MSAttributedStringTextTransformAttribute" : 1,
+"ligature" : 0,
+"paragraphStyle" : {
+"allowsDefaultTighteningForTruncation" : 0,
+"_class" : "paragraphStyle",
+"alignment" : 2
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/button\/whitecenter  "
+},
+{
+"do_objectID" : "FC5E8E7F-4F24-44B6-8A4F-B3F259B50D0F",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue-Medium",
+"size" : 13
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : 0.61000001430511475,
+"MSAttributedStringColorAttribute" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"MSAttributedStringTextTransformAttribute" : 1,
+"ligature" : 0,
+"paragraphStyle" : {
+"allowsDefaultTighteningForTruncation" : 0,
+"_class" : "paragraphStyle",
+"alignment" : 2
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/button\/white\/center  "
+},
+{
+"do_objectID" : "446E1C59-03CC-455A-AB7F-9F4BA48E4543",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : 0.27000000000000002,
+"paragraphStyle" : {
+"alignment" : 2,
+"minimumLineHeight" : 17,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 17,
+"allowsDefaultTighteningForTruncation" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/li\/white\/center  "
+},
+{
+"do_objectID" : "98056356-0537-416E-A931-E2C280D109EC",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : 0.46666669999999999,
+"paragraphStyle" : {
+"alignment" : 2,
+"minimumLineHeight" : 12,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 12,
+"allowsDefaultTighteningForTruncation" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/label\/white\/center  "
+},
+{
+"do_objectID" : "33614811-5BFF-4E4A-81B8-3BEA42A3758B",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue-Medium",
+"size" : 70
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : -1.09375,
+"paragraphStyle" : {
+"allowsDefaultTighteningForTruncation" : 0,
+"_class" : "paragraphStyle",
+"alignment" : 1
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/h\/h1\/white\/right "
+},
+{
+"do_objectID" : "F03815F6-6450-446F-BB9F-2448AB715D92",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue-Medium",
+"size" : 60
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : -0.5,
+"paragraphStyle" : {
+"allowsDefaultTighteningForTruncation" : 0,
+"_class" : "paragraphStyle",
+"alignment" : 1
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/h\/h2\/white\/right  "
+},
+{
+"do_objectID" : "BC9F7D2C-B130-481F-8E78-CF4AC794E133",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue-Medium",
+"size" : 48
+},
+"_class" : "fontDescriptor"
+},
+"paragraphStyle" : {
+"allowsDefaultTighteningForTruncation" : 0,
+"_class" : "paragraphStyle",
+"alignment" : 1
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/h\/h3\/white\/right  "
+},
+{
+"do_objectID" : "48025212-5AEC-4E34-98E7-8FCDE27E65BE",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue-Medium",
+"size" : 34
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : 0.25,
+"paragraphStyle" : {
+"allowsDefaultTighteningForTruncation" : 0,
+"_class" : "paragraphStyle",
+"alignment" : 1
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/h\/h4\/white\/right  "
+},
+{
+"do_objectID" : "F012D5B8-976C-4736-91CF-7716E462C910",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue-Medium",
+"size" : 16
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : 0.14999999999999999,
+"paragraphStyle" : {
+"alignment" : 1,
+"minimumLineHeight" : 24,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 24,
+"allowsDefaultTighteningForTruncation" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/s\/s1\/white\/right  "
+},
+{
+"do_objectID" : "772CF5E0-58AD-4AB8-96FB-CF22352D6465",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : 0.10000000000000001,
+"paragraphStyle" : {
+"alignment" : 1,
+"minimumLineHeight" : 24,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 24,
+"allowsDefaultTighteningForTruncation" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/s\/s2\/white\/right "
+},
+{
+"do_objectID" : "8CC679F3-4478-42BB-8C28-4ABDA0765F80",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue",
+"size" : 16
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : 0.44444440000000002,
+"paragraphStyle" : {
+"alignment" : 1,
+"minimumLineHeight" : 28,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 28,
+"allowsDefaultTighteningForTruncation" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/b\/b1\/white\/right  "
+},
+{
+"do_objectID" : "1E99BEC5-747B-4180-8996-E5A2A525732E",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : 0.25,
+"paragraphStyle" : {
+"alignment" : 1,
+"minimumLineHeight" : 20,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 20,
+"allowsDefaultTighteningForTruncation" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/b\/b2\/white\/right  "
+},
+{
+"do_objectID" : "C4862425-7AD9-4E20-8E10-9C3C39F54D7F",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue-Medium",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : 1.3500000238418579,
+"MSAttributedStringColorAttribute" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"MSAttributedStringTextTransformAttribute" : 1,
+"ligature" : 0,
+"paragraphStyle" : {
+"allowsDefaultTighteningForTruncation" : 0,
+"_class" : "paragraphStyle",
+"alignment" : 1
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/button\/white\/right  "
+},
+{
+"do_objectID" : "AE0949C7-29C1-4539-86D0-B66196168FE2",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : 0.27000000000000002,
+"paragraphStyle" : {
+"alignment" : 1,
+"minimumLineHeight" : 17,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 17,
+"allowsDefaultTighteningForTruncation" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/li\/white\/right  "
+},
+{
+"do_objectID" : "3F2112F1-D7B1-4413-8263-D4F61B93C4AB",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : 0.46666669999999999,
+"paragraphStyle" : {
+"alignment" : 1,
+"minimumLineHeight" : 12,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 12,
+"allowsDefaultTighteningForTruncation" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/label\/white\/right  "
+},
+{
+"do_objectID" : "84E794FB-54A2-41E8-8ECD-93E386D11572",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 0.5725490196078431,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.56470588235294117,
+"green" : 0.57647058823529407
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue-Medium",
+"size" : 70
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : -1.09375,
+"paragraphStyle" : {
+"allowsDefaultTighteningForTruncation" : 0,
+"_class" : "paragraphStyle"
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/h\/h1\/graylight\/left  "
+},
+{
+"do_objectID" : "BDA73D94-5632-46A1-905A-3752301672F9",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 0.5725490196078431,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.56470588235294117,
+"green" : 0.57647058823529407
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue-Medium",
+"size" : 60
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : -0.5,
+"paragraphStyle" : {
+"allowsDefaultTighteningForTruncation" : 0,
+"_class" : "paragraphStyle"
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/h\/h2\/graylight\/left "
+},
+{
+"do_objectID" : "3047D0B8-6D6F-407C-B72E-3DB9E44962AE",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 0.5725490196078431,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.56470588235294117,
+"green" : 0.57647058823529407
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue-Medium",
+"size" : 48
+},
+"_class" : "fontDescriptor"
+},
+"paragraphStyle" : {
+"allowsDefaultTighteningForTruncation" : 0,
+"_class" : "paragraphStyle"
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/h\/h3\/graylight\/left  "
+},
+{
+"do_objectID" : "03AA223B-643E-4078-9274-3A9E9305BBA7",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 0.5725490196078431,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.56470588235294117,
+"green" : 0.57647058823529407
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue-Medium",
+"size" : 34
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : 0.25,
+"paragraphStyle" : {
+"allowsDefaultTighteningForTruncation" : 0,
+"_class" : "paragraphStyle"
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/h\/h4\/graylight\/left  "
+},
+{
+"do_objectID" : "8E5537E0-8223-49AA-8362-141051C018D3",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 0.5725490196078431,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.56470588235294117,
+"green" : 0.57647058823529407
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue-Medium",
+"size" : 20
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : 0.1875,
+"paragraphStyle" : {
+"minimumLineHeight" : 24,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 24,
+"allowsDefaultTighteningForTruncation" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/s\/s1\/graylight\/left  "
+},
+{
+"do_objectID" : "384F6990-3E08-4BF3-A97C-C3C178EDCFA9",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 0.5725490196078431,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.56470588235294117,
+"green" : 0.57647058823529407
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : 0.10000000000000001,
+"paragraphStyle" : {
+"minimumLineHeight" : 24,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 24,
+"allowsDefaultTighteningForTruncation" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/s\/s2\/graylight\/left  "
+},
+{
+"do_objectID" : "E24729D9-22C8-4679-A482-E4B46F5F4361",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 0.5725490196078431,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.56470588235294117,
+"green" : 0.57647058823529407
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue",
+"size" : 16
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : 0.44444440000000002,
+"paragraphStyle" : {
+"minimumLineHeight" : 28,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 28,
+"allowsDefaultTighteningForTruncation" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/b\/b1\/graylight\/left  "
+},
+{
+"do_objectID" : "31FAC185-BD1A-4768-9EA2-496D70AA3619",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 0.5725490196078431,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.56470588235294117,
+"green" : 0.57647058823529407
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : 0.25,
+"paragraphStyle" : {
+"minimumLineHeight" : 20,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 20,
+"allowsDefaultTighteningForTruncation" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/b\/b2\/graylight\/left  "
+},
+{
+"do_objectID" : "2DA4CC0F-CC4A-4A17-8067-648067DCBC03",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue-Medium",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : 1.3500000238418579,
+"MSAttributedStringColorAttribute" : {
+"red" : 0.5725490196078431,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.56470588235294117,
+"green" : 0.57647058823529407
+},
+"MSAttributedStringTextTransformAttribute" : 1,
+"ligature" : 0,
+"paragraphStyle" : {
+"allowsDefaultTighteningForTruncation" : 0,
+"_class" : "paragraphStyle",
+"alignment" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/button\/graylight\/left  "
+},
+{
+"do_objectID" : "D11CFCDE-6AC2-405D-AADA-7A02DAF19287",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 0.5725490196078431,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.56470588235294117,
+"green" : 0.57647058823529407
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : 0.27000000000000002,
+"paragraphStyle" : {
+"minimumLineHeight" : 17,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 17,
+"allowsDefaultTighteningForTruncation" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/li\/graylight\/left  "
+},
+{
+"do_objectID" : "B8EC53A1-BE77-4217-A429-2B3CD5663976",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 0.5725490196078431,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.56470588235294117,
+"green" : 0.57647058823529407
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : 0.46666669999999999,
+"paragraphStyle" : {
+"minimumLineHeight" : 12,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 12,
+"allowsDefaultTighteningForTruncation" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/label\/graylight\/left  "
+},
+{
+"do_objectID" : "79F35E36-2C8B-48AD-8D25-3FDEDCC40BFF",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 0.5725490196078431,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.56470588235294117,
+"green" : 0.57647058823529407
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue-Medium",
+"size" : 70
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : -1.09375,
+"paragraphStyle" : {
+"allowsDefaultTighteningForTruncation" : 0,
+"_class" : "paragraphStyle",
+"alignment" : 2
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/h\/h1\/graylight\/center "
+},
+{
+"do_objectID" : "91F11450-5E49-4742-B685-C6B0017A1893",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 0.5725490196078431,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.56470588235294117,
+"green" : 0.57647058823529407
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue-Medium",
+"size" : 60
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : -0.5,
+"paragraphStyle" : {
+"allowsDefaultTighteningForTruncation" : 0,
+"_class" : "paragraphStyle",
+"alignment" : 2
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/h\/h2\/graylight\/center  "
+},
+{
+"do_objectID" : "B044F6DF-EA38-490F-8817-1061796FED47",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 0.5725490196078431,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.56470588235294117,
+"green" : 0.57647058823529407
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue-Medium",
+"size" : 48
+},
+"_class" : "fontDescriptor"
+},
+"paragraphStyle" : {
+"allowsDefaultTighteningForTruncation" : 0,
+"_class" : "paragraphStyle",
+"alignment" : 2
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/h\/h3\/graylight\/center  "
+},
+{
+"do_objectID" : "4EE69EF7-2DC7-4502-8C5E-E86420B138FF",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 0.5725490196078431,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.56470588235294117,
+"green" : 0.57647058823529407
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue-Medium",
+"size" : 34
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : 0.25,
+"paragraphStyle" : {
+"allowsDefaultTighteningForTruncation" : 0,
+"_class" : "paragraphStyle",
+"alignment" : 2
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/h\/h4\/graylight\/center  "
+},
+{
+"do_objectID" : "E309B2E0-86B2-4108-9329-54E9C095B446",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 0.5725490196078431,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.56470588235294117,
+"green" : 0.57647058823529407
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue-Medium",
+"size" : 16
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : 0.14999999999999999,
+"paragraphStyle" : {
+"alignment" : 2,
+"minimumLineHeight" : 24,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 24,
+"allowsDefaultTighteningForTruncation" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/s\/s1\/graylight\/center  "
+},
+{
+"do_objectID" : "C48C95EE-DF05-402D-81F8-37A0D4B664E7",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 0.5725490196078431,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.56470588235294117,
+"green" : 0.57647058823529407
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : 0.10000000000000001,
+"paragraphStyle" : {
+"alignment" : 2,
+"minimumLineHeight" : 24,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 24,
+"allowsDefaultTighteningForTruncation" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/s\/s2\/graylight\/center  "
+},
+{
+"do_objectID" : "B52FA31A-8149-4F92-801A-B3E455BF9299",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 0.5725490196078431,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.56470588235294117,
+"green" : 0.57647058823529407
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue",
+"size" : 16
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : 0.44444440000000002,
+"paragraphStyle" : {
+"alignment" : 2,
+"minimumLineHeight" : 28,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 28,
+"allowsDefaultTighteningForTruncation" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/b\/b1\/graylight\/center  "
+},
+{
+"do_objectID" : "ED781286-B53A-4E2C-A6D6-FBC8D25CF02F",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 0.5725490196078431,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.56470588235294117,
+"green" : 0.57647058823529407
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : 0.25,
+"paragraphStyle" : {
+"alignment" : 2,
+"minimumLineHeight" : 20,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 20,
+"allowsDefaultTighteningForTruncation" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/b\/b2\/graylight\/center  "
+},
+{
+"do_objectID" : "14DC86CA-9274-4DCE-8F91-127BB4EC99F4",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue-Medium",
+"size" : 13
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : 0.61000001430511475,
+"MSAttributedStringColorAttribute" : {
+"red" : 0.5725490196078431,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.56470588235294117,
+"green" : 0.57647058823529407
+},
+"MSAttributedStringTextTransformAttribute" : 1,
+"ligature" : 0,
+"paragraphStyle" : {
+"allowsDefaultTighteningForTruncation" : 0,
+"_class" : "paragraphStyle",
+"alignment" : 2
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/button\/graylight\/center  "
+},
+{
+"do_objectID" : "70EB7791-402A-4C9C-992C-DEB916C469CA",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 0.5725490196078431,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.56470588235294117,
+"green" : 0.57647058823529407
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : 0.27000000000000002,
+"paragraphStyle" : {
+"alignment" : 2,
+"minimumLineHeight" : 17,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 17,
+"allowsDefaultTighteningForTruncation" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/li\/graylight\/center  "
+},
+{
+"do_objectID" : "40076524-9613-4AAA-AB09-8B79B43E0E6A",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 0.5725490196078431,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.56470588235294117,
+"green" : 0.57647058823529407
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : 0.46666669999999999,
+"paragraphStyle" : {
+"alignment" : 2,
+"minimumLineHeight" : 12,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 12,
+"allowsDefaultTighteningForTruncation" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/label\/graylight\/center  "
+},
+{
+"do_objectID" : "174B7111-7494-48C3-B876-23B20A0827C0",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 0.5725490196078431,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.56470588235294117,
+"green" : 0.57647058823529407
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue-Medium",
+"size" : 70
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : -1.09375,
+"paragraphStyle" : {
+"allowsDefaultTighteningForTruncation" : 0,
+"_class" : "paragraphStyle",
+"alignment" : 1
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/h\/h1\/graylight\/right "
+},
+{
+"do_objectID" : "93040E29-9FE1-43BC-9232-264A2F6310D7",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 0.5725490196078431,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.56470588235294117,
+"green" : 0.57647058823529407
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue-Medium",
+"size" : 60
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : -0.5,
+"paragraphStyle" : {
+"allowsDefaultTighteningForTruncation" : 0,
+"_class" : "paragraphStyle",
+"alignment" : 1
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/h\/h2\/graylight\/right  "
+},
+{
+"do_objectID" : "EC8CDE3F-A1E9-4A37-82A8-42FD01F4E5B3",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 0.5725490196078431,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.56470588235294117,
+"green" : 0.57647058823529407
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue-Medium",
+"size" : 48
+},
+"_class" : "fontDescriptor"
+},
+"paragraphStyle" : {
+"allowsDefaultTighteningForTruncation" : 0,
+"_class" : "paragraphStyle",
+"alignment" : 1
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/h\/h3\/graylight\/right  "
+},
+{
+"do_objectID" : "386EEF67-103A-4743-B65F-6A636147C35F",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 0.5725490196078431,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.56470588235294117,
+"green" : 0.57647058823529407
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue-Medium",
+"size" : 34
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : 0.25,
+"paragraphStyle" : {
+"allowsDefaultTighteningForTruncation" : 0,
+"_class" : "paragraphStyle",
+"alignment" : 1
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/h\/h4\/graylight\/right  "
+},
+{
+"do_objectID" : "9B8E267B-DDF0-4F1B-B1F7-643B856D0784",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 0.5725490196078431,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.56470588235294117,
+"green" : 0.57647058823529407
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue-Medium",
+"size" : 16
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : 0.14999999999999999,
+"paragraphStyle" : {
+"alignment" : 1,
+"minimumLineHeight" : 24,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 24,
+"allowsDefaultTighteningForTruncation" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/s\/s1\/graylight\/right  "
+},
+{
+"do_objectID" : "6D189038-75CE-444A-B5F2-D01B54934752",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 0.5725490196078431,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.56470588235294117,
+"green" : 0.57647058823529407
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : 0.10000000000000001,
+"paragraphStyle" : {
+"alignment" : 1,
+"minimumLineHeight" : 24,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 24,
+"allowsDefaultTighteningForTruncation" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/s\/s2\/graylight\/right "
+},
+{
+"do_objectID" : "90C2CBA2-1711-4ECF-9F74-1FF58B483B48",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 0.5725490196078431,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.56470588235294117,
+"green" : 0.57647058823529407
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue",
+"size" : 16
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : 0.44444440000000002,
+"paragraphStyle" : {
+"alignment" : 1,
+"minimumLineHeight" : 28,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 28,
+"allowsDefaultTighteningForTruncation" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/b\/b1\/graylight\/right  "
+},
+{
+"do_objectID" : "419B7357-FB6B-445A-AD4F-84B2516C6B87",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 0.5725490196078431,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.56470588235294117,
+"green" : 0.57647058823529407
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : 0.25,
+"paragraphStyle" : {
+"alignment" : 1,
+"minimumLineHeight" : 20,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 20,
+"allowsDefaultTighteningForTruncation" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/b\/b2\/graylight\/right  "
+},
+{
+"do_objectID" : "F4E8C5A1-B835-4F5B-84EC-7C50738F1810",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue-Medium",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : 1.3500000238418579,
+"MSAttributedStringColorAttribute" : {
+"red" : 0.5725490196078431,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.56470588235294117,
+"green" : 0.57647058823529407
+},
+"MSAttributedStringTextTransformAttribute" : 1,
+"ligature" : 0,
+"paragraphStyle" : {
+"allowsDefaultTighteningForTruncation" : 0,
+"_class" : "paragraphStyle",
+"alignment" : 1
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/button\/graylight\/right  "
+},
+{
+"do_objectID" : "C849D2E5-F076-4B07-8E88-3A42A4123419",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 0.5725490196078431,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.56470588235294117,
+"green" : 0.57647058823529407
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : 0.27000000000000002,
+"paragraphStyle" : {
+"alignment" : 1,
+"minimumLineHeight" : 17,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 17,
+"allowsDefaultTighteningForTruncation" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/li\/graylight\/right  "
+},
+{
+"do_objectID" : "1228C4C5-D1B1-455B-B04E-B42E4FC82903",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 0.5725490196078431,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.56470588235294117,
+"green" : 0.57647058823529407
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : 0.46666669999999999,
+"paragraphStyle" : {
+"alignment" : 1,
+"minimumLineHeight" : 12,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 12,
+"allowsDefaultTighteningForTruncation" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "dt\/label\/graylight\/right  "
+}
+],
+"_class" : "sharedTextStyleContainer"
+},
+"layerSymbols" : {
+"objects" : [
+
+],
+"_class" : "symbolContainer"
+},
+"do_objectID" : "71A1144B-5D78-49E9-AB78-EBC285BD15D4",
+"foreignTextStyles" : [
+
+],
+"userInfo" : {
+"com.invisionlabs.sync" : {
+"metadata" : "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+}
+}
+}
