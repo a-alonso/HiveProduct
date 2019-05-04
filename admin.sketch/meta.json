@@ -33,7 +33,7 @@
 }
 },
 "01689F51-258C-4B01-AE24-80A7599ED462" : {
-"name" : "High Wireframes",
+"name" : "Hive Wireframes",
 "artboards" : {
 "D4A673E7-BCED-412E-A14B-DA8CD853FA12" : {
 "name" : "Identified"
@@ -66,7 +66,7 @@
 ],
 "compatibilityVersion" : 99,
 "app" : "com.bohemiancoding.sketch3",
-"autosaved" : 0,
+"autosaved" : 1,
 "variant" : "NONAPPSTORE",
 "created" : {
 "build" : 76490,

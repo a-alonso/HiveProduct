@@ -7,7 +7,13 @@
 "startMarkerType" : 0,
 "endMarkerType" : 0
 },
-"rotation" : 0,
+"horizontalRulerData" : {
+"base" : -498,
+"_class" : "rulerData",
+"guides" : [
+
+]
+},
 "frame" : {
 "x" : 0,
 "y" : 0,
@@ -17,7 +23,7 @@
 "width" : 0
 },
 "do_objectID" : "01689F51-258C-4B01-AE24-80A7599ED462",
-"layerListExpandedType" : 0,
+"hasClickThrough" : true,
 "exportOptions" : {
 "shouldTrim" : false,
 "includedLayerIds" : [
@@ -29,15 +35,9 @@
 
 ]
 },
-"hasClickThrough" : true,
-"horizontalRulerData" : {
-"base" : -498,
-"_class" : "rulerData",
-"guides" : [
-
-]
-},
 "includeInCloudUpload" : true,
+"layerListExpandedType" : 0,
+"rotation" : 0,
 "verticalRulerData" : {
 "base" : -358,
 "_class" : "rulerData",
@@ -46,11 +46,9 @@
 ]
 },
 "isFlippedVertical" : false,
-"nameIsFixed" : true,
-"name" : "High Wireframes",
-"isVisible" : true,
-"resizingType" : 0,
 "clippingMaskMode" : 0,
+"name" : "Hive Wireframes",
+"isVisible" : true,
 "hasClippingMask" : false,
 "layers" : [
 {
@@ -63,18 +61,25 @@
 "startMarkerType" : 0,
 "endMarkerType" : 0
 },
-"rotation" : 0,
+"horizontalRulerData" : {
+"do_objectID" : "7787AC81-AF2D-44AD-8EA6-1BD0257DAF5C",
+"_class" : "rulerData",
+"base" : 0,
+"guides" : [
+
+]
+},
 "frame" : {
 "_class" : "rect",
 "height" : 1920,
-"do_objectID" : "690111CC-AE8C-4EF6-81C0-BB46A5EDAC70",
 "constrainProportions" : false,
+"do_objectID" : "690111CC-AE8C-4EF6-81C0-BB46A5EDAC70",
 "x" : -1752,
 "width" : 1080,
 "y" : -916
 },
 "do_objectID" : "45A8CFBC-2954-47B3-AEAA-F9BAFABA5053",
-"layerListExpandedType" : 2,
+"hasClickThrough" : false,
 "exportOptions" : {
 "shouldTrim" : false,
 "do_objectID" : "ED79841C-5B4B-4C5B-B744-F6A317661C4C",
@@ -87,16 +92,9 @@
 
 ]
 },
-"hasClickThrough" : false,
 "hasBackgroundColor" : false,
-"horizontalRulerData" : {
-"do_objectID" : "7787AC81-AF2D-44AD-8EA6-1BD0257DAF5C",
-"_class" : "rulerData",
-"base" : 0,
-"guides" : [
-
-]
-},
+"includeInCloudUpload" : true,
+"layerListExpandedType" : 2,
 "backgroundColor" : {
 "do_objectID" : "326AFE22-1C8A-4A2D-98E6-1AFE57CA7E8B",
 "red" : 1,
@@ -105,8 +103,8 @@
 "blue" : 1,
 "green" : 1
 },
-"includeInCloudUpload" : true,
 "resizesContent" : false,
+"rotation" : 0,
 "verticalRulerData" : {
 "do_objectID" : "C4026764-6319-4A3C-A2A0-B0B62B44B515",
 "_class" : "rulerData",
@@ -116,11 +114,9 @@
 ]
 },
 "isFlippedVertical" : false,
-"nameIsFixed" : true,
+"clippingMaskMode" : 0,
 "name" : "Idle",
 "isVisible" : true,
-"resizingType" : 0,
-"clippingMaskMode" : 0,
 "hasClippingMask" : false,
 "layers" : [
 {
@@ -137,14 +133,14 @@
 "frame" : {
 "_class" : "rect",
 "height" : 967,
-"do_objectID" : "AA4D9C7E-5D64-43B8-A51E-F1FAADB0E0DC",
 "constrainProportions" : false,
+"do_objectID" : "AA4D9C7E-5D64-43B8-A51E-F1FAADB0E0DC",
 "x" : 70,
 "width" : 940,
 "y" : 300
 },
 "do_objectID" : "E99D4953-E8F7-4672-BE80-6764FC1EF559",
-"layerListExpandedType" : 2,
+"hasClickThrough" : false,
 "exportOptions" : {
 "shouldTrim" : false,
 "do_objectID" : "EA94D0E1-1F88-4CEC-A112-55E37D1F39F3",
@@ -157,13 +153,11 @@
 
 ]
 },
-"hasClickThrough" : false,
+"layerListExpandedType" : 2,
 "isFlippedVertical" : false,
-"nameIsFixed" : true,
+"clippingMaskMode" : 0,
 "name" : "Campaign",
 "isVisible" : true,
-"resizingType" : 0,
-"clippingMaskMode" : 0,
 "hasClippingMask" : false,
 "layers" : [
 {
@@ -194,8 +188,8 @@
 "blue" : 0.56470588235294117,
 "green" : 0.57647058823529407
 },
-"ligature" : 0,
 "kerning" : -0.5,
+"ligature" : 0,
 "paragraphStyle" : {
 "allowsDefaultTighteningForTruncation" : 0,
 "_class" : "paragraphStyle",
@@ -205,12 +199,12 @@
 },
 "endMarkerType" : 0
 },
-"rotation" : 0,
+"glyphBounds" : "{{81, 15}, {782, 117}}",
 "frame" : {
 "_class" : "rect",
 "height" : 144,
-"do_objectID" : "C179323B-D3C6-4A84-B3E4-79044851A56D",
 "constrainProportions" : false,
+"do_objectID" : "C179323B-D3C6-4A84-B3E4-79044851A56D",
 "x" : 0,
 "width" : 940,
 "y" : 680
@@ -229,14 +223,16 @@
 
 ]
 },
-"glyphBounds" : "{{81, 15}, {782, 117}}",
+"rotation" : 0,
 "dontSynchroniseWithSymbol" : false,
 "lineSpacingBehaviour" : 2,
 "textBehaviour" : 1,
 "isFlippedVertical" : false,
-"nameIsFixed" : false,
+"clippingMaskMode" : 0,
 "name" : "Come closer to multi",
 "isVisible" : true,
+"hasClippingMask" : false,
+"nameIsFixed" : false,
 "resizingType" : 0,
 "userInfo" : {
 "com.animaapp.stc-sketch-plugin" : {
@@ -245,26 +241,13 @@
 }
 }
 },
-"clippingMaskMode" : 0,
-"hasClippingMask" : false,
 "isLocked" : false,
 "attributedString" : {
-"string" : "Come closer to multiply your BuzzPoints",
-"_class" : "attributedString",
 "attributes" : [
 {
 "length" : 39,
 "_class" : "stringAttribute",
-"location" : 0,
 "attributes" : {
-"ligature" : 0,
-"MSAttributedStringColorAttribute" : {
-"red" : 0.5725490196078431,
-"_class" : "color",
-"alpha" : 1,
-"blue" : 0.56470588235294117,
-"green" : 0.57647058823529407
-},
 "MSAttributedStringFontAttribute" : {
 "attributes" : {
 "name" : "HelveticaNeue-Medium",
@@ -272,15 +255,26 @@
 },
 "_class" : "fontDescriptor"
 },
+"MSAttributedStringColorAttribute" : {
+"red" : 0.5725490196078431,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.56470588235294117,
+"green" : 0.57647058823529407
+},
 "kerning" : -0.5,
+"ligature" : 0,
 "paragraphStyle" : {
 "allowsDefaultTighteningForTruncation" : 0,
 "_class" : "paragraphStyle",
 "alignment" : 2
 }
+},
+"location" : 0
 }
-}
-]
+],
+"_class" : "attributedString",
+"string" : "Come closer to multiply your BuzzPoints"
 },
 "shouldBreakMaskChain" : false,
 "isFixedToViewport" : false,
@@ -310,7 +304,6 @@
 },
 "_class" : "fontDescriptor"
 },
-"ligature" : 0,
 "MSAttributedStringColorAttribute" : {
 "red" : 0.1372549019607843,
 "_class" : "color",
@@ -318,6 +311,7 @@
 "blue" : 0.2156862745098039,
 "green" : 0.19607843137254899
 },
+"ligature" : 0,
 "paragraphStyle" : {
 "allowsDefaultTighteningForTruncation" : 0,
 "_class" : "paragraphStyle",
@@ -327,12 +321,12 @@
 },
 "endMarkerType" : 0
 },
-"rotation" : 0,
+"glyphBounds" : "{{152, 9}, {636, 46}}",
 "frame" : {
 "_class" : "rect",
 "height" : 57,
-"do_objectID" : "1F90BBFA-AE28-4C9E-9E93-B4674F1BE995",
 "constrainProportions" : false,
+"do_objectID" : "1F90BBFA-AE28-4C9E-9E93-B4674F1BE995",
 "x" : 0,
 "width" : 940,
 "y" : 910
@@ -351,14 +345,16 @@
 
 ]
 },
-"glyphBounds" : "{{152, 9}, {636, 46}}",
+"rotation" : 0,
 "dontSynchroniseWithSymbol" : false,
 "lineSpacingBehaviour" : 2,
 "textBehaviour" : 1,
 "isFlippedVertical" : false,
-"nameIsFixed" : false,
+"clippingMaskMode" : 0,
 "name" : "247 Redemptions in t",
 "isVisible" : true,
+"hasClippingMask" : false,
+"nameIsFixed" : false,
 "resizingType" : 0,
 "userInfo" : {
 "com.animaapp.stc-sketch-plugin" : {
@@ -367,17 +363,12 @@
 }
 }
 },
-"clippingMaskMode" : 0,
-"hasClippingMask" : false,
 "isLocked" : false,
 "attributedString" : {
-"string" : "247 Redemptions in this HIVE",
-"_class" : "attributedString",
 "attributes" : [
 {
 "length" : 28,
 "_class" : "stringAttribute",
-"location" : 0,
 "attributes" : {
 "MSAttributedStringFontAttribute" : {
 "attributes" : {
@@ -399,9 +390,12 @@
 "_class" : "paragraphStyle",
 "alignment" : 2
 }
+},
+"location" : 0
 }
-}
-]
+],
+"_class" : "attributedString",
+"string" : "247 Redemptions in this HIVE"
 },
 "shouldBreakMaskChain" : false,
 "isFixedToViewport" : false,
@@ -412,6 +406,32 @@
 },
 {
 "isFlippedHorizontal" : false,
+"hasConvertedToNewRoundCorners" : true,
+"rotation" : 0,
+"frame" : {
+"_class" : "rect",
+"height" : 600,
+"constrainProportions" : false,
+"do_objectID" : "23C8F448-739C-4046-A9C5-6D3EDB443951",
+"x" : 20,
+"width" : 890,
+"y" : 0
+},
+"do_objectID" : "036F65DC-18A0-43C2-9598-2C30416D90B6",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"shouldTrim" : false,
+"do_objectID" : "A03F37FC-BE0C-4898-859E-A1E1635E5E41",
+"includedLayerIds" : [
+
+],
+"_class" : "exportOptions",
+"layerOptions" : 0,
+"exportFormats" : [
+
+]
+},
+"edited" : false,
 "style" : {
 "_class" : "style",
 "borders" : [
@@ -454,39 +474,13 @@
 "windingRule" : 1,
 "endMarkerType" : 0
 },
-"rotation" : 0,
-"frame" : {
-"_class" : "rect",
-"height" : 600,
-"do_objectID" : "23C8F448-739C-4046-A9C5-6D3EDB443951",
-"constrainProportions" : false,
-"x" : 20,
-"width" : 890,
-"y" : 0
-},
-"do_objectID" : "036F65DC-18A0-43C2-9598-2C30416D90B6",
-"layerListExpandedType" : 0,
-"exportOptions" : {
-"shouldTrim" : false,
-"do_objectID" : "A03F37FC-BE0C-4898-859E-A1E1635E5E41",
-"includedLayerIds" : [
-
-],
-"_class" : "exportOptions",
-"layerOptions" : 0,
-"exportFormats" : [
-
-]
-},
-"edited" : false,
-"hasConvertedToNewRoundCorners" : true,
 "isFlippedVertical" : false,
-"nameIsFixed" : true,
+"clippingMaskMode" : 0,
 "name" : "Art",
 "isVisible" : true,
-"resizingType" : 0,
-"clippingMaskMode" : 0,
 "hasClippingMask" : false,
+"nameIsFixed" : true,
+"resizingType" : 0,
 "isClosed" : true,
 "isLocked" : false,
 "points" : [
@@ -531,10 +525,10 @@
 "hasCurveFrom" : false
 }
 ],
-"shouldBreakMaskChain" : false,
+"fixedRadius" : 0,
 "pointRadiusBehaviour" : 1,
 "isFixedToViewport" : false,
-"fixedRadius" : 0,
+"shouldBreakMaskChain" : false,
 "_class" : "rectangle",
 "booleanOperation" : -1,
 "resizingConstraint" : 63
@@ -567,8 +561,8 @@
 "blue" : 0.2156862745098039,
 "green" : 0.19607843137254899
 },
-"ligature" : 0,
 "kerning" : 0.25,
+"ligature" : 0,
 "paragraphStyle" : {
 "allowsDefaultTighteningForTruncation" : 0,
 "_class" : "paragraphStyle",
@@ -578,12 +572,12 @@
 },
 "endMarkerType" : 0
 },
-"rotation" : 0,
+"glyphBounds" : "{{1, 7}, {260, 33}}",
 "frame" : {
 "_class" : "rect",
 "height" : 40,
-"do_objectID" : "FC044428-D2BA-4E86-B8A5-35746A25481F",
 "constrainProportions" : false,
+"do_objectID" : "FC044428-D2BA-4E86-B8A5-35746A25481F",
 "x" : 341,
 "width" : 262,
 "y" : 255
@@ -602,14 +596,16 @@
 
 ]
 },
-"glyphBounds" : "{{1, 7}, {260, 33}}",
+"rotation" : 0,
 "dontSynchroniseWithSymbol" : false,
 "lineSpacingBehaviour" : 2,
 "textBehaviour" : 0,
 "isFlippedVertical" : false,
-"nameIsFixed" : false,
+"clippingMaskMode" : 0,
 "name" : "Campaign Image",
 "isVisible" : true,
+"hasClippingMask" : false,
+"nameIsFixed" : false,
 "resizingType" : 0,
 "userInfo" : {
 "com.animaapp.stc-sketch-plugin" : {
@@ -618,17 +614,12 @@
 }
 }
 },
-"clippingMaskMode" : 0,
-"hasClippingMask" : false,
 "isLocked" : false,
 "attributedString" : {
-"string" : "Campaign Image",
-"_class" : "attributedString",
 "attributes" : [
 {
 "length" : 14,
 "_class" : "stringAttribute",
-"location" : 0,
 "attributes" : {
 "MSAttributedStringFontAttribute" : {
 "attributes" : {
@@ -644,16 +635,19 @@
 "blue" : 0.2156862745098039,
 "green" : 0.19607843137254899
 },
-"ligature" : 0,
 "kerning" : 0.25,
+"ligature" : 0,
 "paragraphStyle" : {
 "allowsDefaultTighteningForTruncation" : 0,
 "_class" : "paragraphStyle",
 "alignment" : 2
 }
+},
+"location" : 0
 }
-}
-]
+],
+"_class" : "attributedString",
+"string" : "Campaign Image"
 },
 "shouldBreakMaskChain" : false,
 "isFixedToViewport" : false,
@@ -663,6 +657,8 @@
 "automaticallyDrawOnUnderlyingPath" : false
 }
 ],
+"nameIsFixed" : true,
+"resizingType" : 0,
 "isLocked" : false,
 "groupLayout" : {
 "do_objectID" : "8BA14B07-1198-4336-B1DD-CB53723CF36B",
@@ -688,14 +684,14 @@
 "frame" : {
 "_class" : "rect",
 "height" : 482,
-"do_objectID" : "DB5442FE-223B-4379-822B-390470E0F03D",
 "constrainProportions" : false,
+"do_objectID" : "DB5442FE-223B-4379-822B-390470E0F03D",
 "x" : 70,
 "width" : 940,
 "y" : 1370
 },
 "do_objectID" : "934BD206-1A8C-45C2-AFDA-6A22BD55CE60",
-"layerListExpandedType" : 2,
+"hasClickThrough" : false,
 "exportOptions" : {
 "shouldTrim" : false,
 "do_objectID" : "970CB4E6-A057-4EF4-88C6-534E14FE351B",
@@ -708,13 +704,11 @@
 
 ]
 },
-"hasClickThrough" : false,
+"layerListExpandedType" : 2,
 "isFlippedVertical" : false,
-"nameIsFixed" : true,
+"clippingMaskMode" : 0,
 "name" : "Find Out More",
 "isVisible" : true,
-"resizingType" : 0,
-"clippingMaskMode" : 0,
 "hasClippingMask" : false,
 "layers" : [
 {
@@ -731,7 +725,6 @@
 "_class" : "textStyle",
 "verticalAlignment" : 0,
 "encodedAttributes" : {
-"ligature" : 0,
 "MSAttributedStringFontAttribute" : {
 "attributes" : {
 "name" : "HelveticaNeue-Medium",
@@ -746,6 +739,7 @@
 "blue" : 0.22745098039215689,
 "green" : 0.22745098039215689
 },
+"ligature" : 0,
 "paragraphStyle" : {
 "allowsDefaultTighteningForTruncation" : 0,
 "_class" : "paragraphStyle",
@@ -755,12 +749,12 @@
 },
 "endMarkerType" : 0
 },
-"rotation" : 0,
+"glyphBounds" : "{{99, 12}, {744, 36}}",
 "frame" : {
 "_class" : "rect",
 "height" : 57,
-"do_objectID" : "0D0BD174-C177-4B9E-8F00-E5A1EA2A8870",
 "constrainProportions" : false,
+"do_objectID" : "0D0BD174-C177-4B9E-8F00-E5A1EA2A8870",
 "x" : 0,
 "width" : 940,
 "y" : 425
@@ -779,14 +773,16 @@
 
 ]
 },
-"glyphBounds" : "{{99, 12}, {744, 36}}",
+"rotation" : 0,
 "dontSynchroniseWithSymbol" : false,
 "lineSpacingBehaviour" : 2,
 "textBehaviour" : 1,
 "isFlippedVertical" : false,
-"nameIsFixed" : false,
+"clippingMaskMode" : 0,
 "name" : "Find more about Buzz",
 "isVisible" : true,
+"hasClippingMask" : false,
+"nameIsFixed" : false,
 "resizingType" : 0,
 "userInfo" : {
 "com.animaapp.stc-sketch-plugin" : {
@@ -795,17 +791,12 @@
 }
 }
 },
-"clippingMaskMode" : 0,
-"hasClippingMask" : false,
 "isLocked" : false,
 "attributedString" : {
-"string" : "Find more about BuzzPoints HIVE",
-"_class" : "attributedString",
 "attributes" : [
 {
 "length" : 31,
 "_class" : "stringAttribute",
-"location" : 0,
 "attributes" : {
 "MSAttributedStringFontAttribute" : {
 "attributes" : {
@@ -827,9 +818,12 @@
 "_class" : "paragraphStyle",
 "alignment" : 2
 }
+},
+"location" : 0
 }
-}
-]
+],
+"_class" : "attributedString",
+"string" : "Find more about BuzzPoints HIVE"
 },
 "shouldBreakMaskChain" : false,
 "isFixedToViewport" : false,
@@ -840,6 +834,32 @@
 },
 {
 "isFlippedHorizontal" : false,
+"hasConvertedToNewRoundCorners" : true,
+"rotation" : 0,
+"frame" : {
+"_class" : "rect",
+"height" : 370,
+"constrainProportions" : true,
+"do_objectID" : "F9C7FCC9-FE8C-4065-A0AF-9BBBCD7AB0C8",
+"x" : 285,
+"width" : 370,
+"y" : 0
+},
+"do_objectID" : "EC317EA4-61FD-43E2-8E97-C778DB9118A0",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"shouldTrim" : false,
+"do_objectID" : "508A40D4-D0F8-433E-A738-9C9A5986DB2C",
+"includedLayerIds" : [
+
+],
+"_class" : "exportOptions",
+"layerOptions" : 0,
+"exportFormats" : [
+
+]
+},
+"edited" : false,
 "style" : {
 "_class" : "style",
 "borders" : [
@@ -882,37 +902,14 @@
 "windingRule" : 1,
 "endMarkerType" : 0
 },
-"rotation" : 0,
-"frame" : {
-"_class" : "rect",
-"height" : 370,
-"do_objectID" : "F9C7FCC9-FE8C-4065-A0AF-9BBBCD7AB0C8",
-"constrainProportions" : true,
-"x" : 285,
-"width" : 370,
-"y" : 0
-},
-"do_objectID" : "EC317EA4-61FD-43E2-8E97-C778DB9118A0",
-"layerListExpandedType" : 0,
-"exportOptions" : {
-"shouldTrim" : false,
-"do_objectID" : "508A40D4-D0F8-433E-A738-9C9A5986DB2C",
-"includedLayerIds" : [
-
-],
-"_class" : "exportOptions",
-"layerOptions" : 0,
-"exportFormats" : [
-
-]
-},
-"edited" : false,
-"hasConvertedToNewRoundCorners" : true,
 "isFlippedVertical" : false,
-"nameIsFixed" : true,
+"clippingMaskMode" : 0,
 "name" : "QR",
 "isVisible" : true,
+"hasClippingMask" : false,
+"nameIsFixed" : true,
 "resizingType" : 0,
+"isClosed" : true,
 "userInfo" : {
 "com.animaapp.stc-sketch-plugin" : {
 "kModelPropertiesKey" : {
@@ -920,12 +917,12 @@
 "scaleFactor" : 1,
 "model_version" : 0,
 "aspectRatio" : {
-"constant" : 370,
-"enabled" : 1,
-"model_version" : 0,
 "multiplier" : 370,
+"enabled" : 1,
+"constant" : 370,
 "modelID" : "constraint_63babb67-bc13-4695-923a-b7959b575c78",
-"model_class" : "ADModelConstraint"
+"model_class" : "ADModelConstraint",
+"model_version" : 0
 },
 "modelID" : "viewConstraints_d30ba813-b50b-426c-8c36-407b2c7ea96a",
 "model_class" : "ADModelViewConstraints",
@@ -934,9 +931,6 @@
 }
 }
 },
-"clippingMaskMode" : 0,
-"hasClippingMask" : false,
-"isClosed" : true,
 "isLocked" : false,
 "points" : [
 {
@@ -980,15 +974,17 @@
 "hasCurveFrom" : false
 }
 ],
-"shouldBreakMaskChain" : false,
+"fixedRadius" : 0,
 "pointRadiusBehaviour" : 1,
 "isFixedToViewport" : false,
-"fixedRadius" : 0,
+"shouldBreakMaskChain" : false,
 "_class" : "rectangle",
 "booleanOperation" : -1,
 "resizingConstraint" : 63
 }
 ],
+"nameIsFixed" : true,
+"resizingType" : 0,
 "isLocked" : false,
 "groupLayout" : {
 "do_objectID" : "63350057-7508-4AE7-A484-D0E3FA6BF901",
@@ -1028,8 +1024,8 @@
 "blue" : 0.22745098039215689,
 "green" : 0.22745098039215689
 },
-"ligature" : 0,
 "kerning" : -1.09375,
+"ligature" : 0,
 "paragraphStyle" : {
 "allowsDefaultTighteningForTruncation" : 0,
 "_class" : "paragraphStyle",
@@ -1039,12 +1035,12 @@
 },
 "endMarkerType" : 0
 },
-"rotation" : 0,
+"glyphBounds" : "{{213, 18}, {518, 51}}",
 "frame" : {
 "_class" : "rect",
 "height" : 83,
-"do_objectID" : "249D4C89-4E4A-43AA-8009-A65AE554C695",
 "constrainProportions" : false,
+"do_objectID" : "249D4C89-4E4A-43AA-8009-A65AE554C695",
 "x" : 70,
 "width" : 940,
 "y" : 105
@@ -1063,14 +1059,16 @@
 
 ]
 },
-"glyphBounds" : "{{213, 18}, {518, 51}}",
+"rotation" : 0,
 "dontSynchroniseWithSymbol" : false,
 "lineSpacingBehaviour" : 2,
 "textBehaviour" : 1,
 "isFlippedVertical" : false,
-"nameIsFixed" : true,
+"clippingMaskMode" : 0,
 "name" : "Title",
 "isVisible" : true,
+"hasClippingMask" : false,
+"nameIsFixed" : true,
 "resizingType" : 0,
 "userInfo" : {
 "com.animaapp.stc-sketch-plugin" : {
@@ -1079,17 +1077,12 @@
 }
 }
 },
-"clippingMaskMode" : 0,
-"hasClippingMask" : false,
 "isLocked" : false,
 "attributedString" : {
-"string" : "BuzzPoints HIVE",
-"_class" : "attributedString",
 "attributes" : [
 {
 "length" : 15,
 "_class" : "stringAttribute",
-"location" : 0,
 "attributes" : {
 "MSAttributedStringFontAttribute" : {
 "attributes" : {
@@ -1105,16 +1098,19 @@
 "blue" : 0.22745098039215689,
 "green" : 0.22745098039215689
 },
-"ligature" : 0,
 "kerning" : -1.09375,
+"ligature" : 0,
 "paragraphStyle" : {
 "allowsDefaultTighteningForTruncation" : 0,
 "_class" : "paragraphStyle",
 "alignment" : 2
 }
+},
+"location" : 0
 }
-}
-]
+],
+"_class" : "attributedString",
+"string" : "BuzzPoints HIVE"
 },
 "shouldBreakMaskChain" : false,
 "isFixedToViewport" : false,
@@ -1151,8 +1147,8 @@
 "blue" : 0.2156862745098039,
 "green" : 0.19607843137254899
 },
-"ligature" : 0,
 "kerning" : 0.25,
+"ligature" : 0,
 "paragraphStyle" : {
 "allowsDefaultTighteningForTruncation" : 0,
 "_class" : "paragraphStyle",
@@ -1162,12 +1158,12 @@
 },
 "endMarkerType" : 0
 },
-"rotation" : 0,
+"glyphBounds" : "{{1, 6}, {132, 31}}",
 "frame" : {
 "_class" : "rect",
 "height" : 40,
-"do_objectID" : "F5A0C5A4-2165-4796-A2D5-19447D2072C8",
 "constrainProportions" : false,
+"do_objectID" : "F5A0C5A4-2165-4796-A2D5-19447D2072C8",
 "x" : 475,
 "width" : 134,
 "y" : 1535
@@ -1186,14 +1182,16 @@
 
 ]
 },
-"glyphBounds" : "{{1, 6}, {132, 31}}",
+"rotation" : 0,
 "dontSynchroniseWithSymbol" : false,
 "lineSpacingBehaviour" : 2,
 "textBehaviour" : 0,
 "isFlippedVertical" : false,
-"nameIsFixed" : false,
+"clippingMaskMode" : 0,
 "name" : "QR Code",
 "isVisible" : true,
+"hasClippingMask" : false,
+"nameIsFixed" : false,
 "resizingType" : 0,
 "userInfo" : {
 "com.animaapp.stc-sketch-plugin" : {
@@ -1202,17 +1200,12 @@
 }
 }
 },
-"clippingMaskMode" : 0,
-"hasClippingMask" : false,
 "isLocked" : false,
 "attributedString" : {
-"string" : "QR Code",
-"_class" : "attributedString",
 "attributes" : [
 {
 "length" : 7,
 "_class" : "stringAttribute",
-"location" : 0,
 "attributes" : {
 "MSAttributedStringFontAttribute" : {
 "attributes" : {
@@ -1228,16 +1221,19 @@
 "blue" : 0.2156862745098039,
 "green" : 0.19607843137254899
 },
-"ligature" : 0,
 "kerning" : 0.25,
+"ligature" : 0,
 "paragraphStyle" : {
 "allowsDefaultTighteningForTruncation" : 0,
 "_class" : "paragraphStyle",
 "alignment" : 2
 }
+},
+"location" : 0
 }
-}
-]
+],
+"_class" : "attributedString",
+"string" : "QR Code"
 },
 "shouldBreakMaskChain" : false,
 "isFixedToViewport" : false,
@@ -1247,18 +1243,20 @@
 "automaticallyDrawOnUnderlyingPath" : false
 }
 ],
+"nameIsFixed" : true,
+"resizingType" : 0,
 "isLocked" : false,
 "groupLayout" : {
 "do_objectID" : "2611D141-9280-4204-B607-199CBAE8C9D1",
 "_class" : "MSImmutableFreeformGroupLayout"
 },
-"shouldBreakMaskChain" : true,
 "isFlowHome" : false,
+"shouldBreakMaskChain" : true,
 "isFixedToViewport" : false,
 "_class" : "artboard",
 "booleanOperation" : -1,
-"resizingConstraint" : 63,
-"includeBackgroundColorInExport" : true
+"includeBackgroundColorInExport" : true,
+"resizingConstraint" : 63
 },
 {
 "isFlippedHorizontal" : false,
@@ -1270,18 +1268,25 @@
 "startMarkerType" : 0,
 "endMarkerType" : 0
 },
-"rotation" : 0,
+"horizontalRulerData" : {
+"do_objectID" : "A9B89503-BE1E-445B-ACB2-694E10407171",
+"_class" : "rulerData",
+"base" : 0,
+"guides" : [
+
+]
+},
 "frame" : {
 "_class" : "rect",
 "height" : 1920,
-"do_objectID" : "B47948DE-7978-4368-8F08-8BFB17150C51",
 "constrainProportions" : false,
+"do_objectID" : "B47948DE-7978-4368-8F08-8BFB17150C51",
 "x" : -452,
 "width" : 1080,
 "y" : -916
 },
 "do_objectID" : "86D60424-D46C-4DE2-AC36-AD6E4DBF0E88",
-"layerListExpandedType" : 2,
+"hasClickThrough" : false,
 "exportOptions" : {
 "shouldTrim" : false,
 "do_objectID" : "BDFD8EB9-4EB7-4FA9-B7BE-B879654CF197",
@@ -1294,16 +1299,9 @@
 
 ]
 },
-"hasClickThrough" : false,
 "hasBackgroundColor" : false,
-"horizontalRulerData" : {
-"do_objectID" : "A9B89503-BE1E-445B-ACB2-694E10407171",
-"_class" : "rulerData",
-"base" : 0,
-"guides" : [
-
-]
-},
+"includeInCloudUpload" : true,
+"layerListExpandedType" : 2,
 "backgroundColor" : {
 "do_objectID" : "9EF0F06E-F5D8-464F-8E1D-2ECCA14E670B",
 "red" : 1,
@@ -1312,8 +1310,8 @@
 "blue" : 1,
 "green" : 1
 },
-"includeInCloudUpload" : true,
 "resizesContent" : false,
+"rotation" : 0,
 "verticalRulerData" : {
 "do_objectID" : "057260AD-42A7-4322-9E16-23871B037AC8",
 "_class" : "rulerData",
@@ -1323,11 +1321,9 @@
 ]
 },
 "isFlippedVertical" : false,
-"nameIsFixed" : true,
+"clippingMaskMode" : 0,
 "name" : "Identifying",
 "isVisible" : true,
-"resizingType" : 0,
-"clippingMaskMode" : 0,
 "hasClippingMask" : false,
 "layers" : [
 {
@@ -1344,14 +1340,14 @@
 "frame" : {
 "_class" : "rect",
 "height" : 1117,
-"do_objectID" : "F9F69068-0A6F-4466-A502-DF905B0ABE9E",
 "constrainProportions" : false,
+"do_objectID" : "F9F69068-0A6F-4466-A502-DF905B0ABE9E",
 "x" : 70,
 "width" : 940,
 "y" : 300
 },
 "do_objectID" : "FBC3C1BA-5D8F-436B-BF55-7F618BBA3D03",
-"layerListExpandedType" : 2,
+"hasClickThrough" : false,
 "exportOptions" : {
 "shouldTrim" : false,
 "do_objectID" : "7C9AAECE-C596-4B95-961B-B65D8EC9B8F2",
@@ -1364,13 +1360,11 @@
 
 ]
 },
-"hasClickThrough" : false,
+"layerListExpandedType" : 2,
 "isFlippedVertical" : false,
-"nameIsFixed" : true,
+"clippingMaskMode" : 0,
 "name" : "Campaign",
 "isVisible" : true,
-"resizingType" : 0,
-"clippingMaskMode" : 0,
 "hasClippingMask" : false,
 "layers" : [
 {
@@ -1394,7 +1388,6 @@
 },
 "_class" : "fontDescriptor"
 },
-"ligature" : 0,
 "MSAttributedStringColorAttribute" : {
 "red" : 0.1372549019607843,
 "_class" : "color",
@@ -1402,6 +1395,7 @@
 "blue" : 0.2156862745098039,
 "green" : 0.19607843137254899
 },
+"ligature" : 0,
 "paragraphStyle" : {
 "allowsDefaultTighteningForTruncation" : 0,
 "_class" : "paragraphStyle",
@@ -1411,12 +1405,12 @@
 },
 "endMarkerType" : 0
 },
-"rotation" : 0,
+"glyphBounds" : "{{224, 9}, {491, 37}}",
 "frame" : {
 "_class" : "rect",
 "height" : 57,
-"do_objectID" : "8EDF372F-A46B-4D3A-A011-B5D1A236CF6E",
 "constrainProportions" : false,
+"do_objectID" : "8EDF372F-A46B-4D3A-A011-B5D1A236CF6E",
 "x" : 0,
 "width" : 940,
 "y" : 920
@@ -1435,14 +1429,16 @@
 
 ]
 },
-"glyphBounds" : "{{224, 9}, {491, 37}}",
+"rotation" : 0,
 "dontSynchroniseWithSymbol" : false,
 "lineSpacingBehaviour" : 2,
 "textBehaviour" : 1,
 "isFlippedVertical" : false,
-"nameIsFixed" : false,
+"clippingMaskMode" : 0,
 "name" : "Turn on Your Bluetoo",
 "isVisible" : true,
+"hasClippingMask" : false,
+"nameIsFixed" : false,
 "resizingType" : 0,
 "userInfo" : {
 "com.animaapp.stc-sketch-plugin" : {
@@ -1451,17 +1447,12 @@
 }
 }
 },
-"clippingMaskMode" : 0,
-"hasClippingMask" : false,
 "isLocked" : false,
 "attributedString" : {
-"string" : "Turn on Your Bluetooth",
-"_class" : "attributedString",
 "attributes" : [
 {
 "length" : 22,
 "_class" : "stringAttribute",
-"location" : 0,
 "attributes" : {
 "MSAttributedStringFontAttribute" : {
 "attributes" : {
@@ -1483,9 +1474,12 @@
 "_class" : "paragraphStyle",
 "alignment" : 2
 }
+},
+"location" : 0
 }
-}
-]
+],
+"_class" : "attributedString",
+"string" : "Turn on Your Bluetooth"
 },
 "shouldBreakMaskChain" : false,
 "isFixedToViewport" : false,
@@ -1508,7 +1502,6 @@
 "_class" : "textStyle",
 "verticalAlignment" : 0,
 "encodedAttributes" : {
-"ligature" : 0,
 "MSAttributedStringFontAttribute" : {
 "attributes" : {
 "name" : "HelveticaNeue-Medium",
@@ -1523,6 +1516,7 @@
 "blue" : 0.22745098039215689,
 "green" : 0.22745098039215689
 },
+"ligature" : 0,
 "paragraphStyle" : {
 "allowsDefaultTighteningForTruncation" : 0,
 "_class" : "paragraphStyle",
@@ -1532,12 +1526,12 @@
 },
 "endMarkerType" : 0
 },
-"rotation" : 0,
+"glyphBounds" : "{{228, 11}, {484, 46}}",
 "frame" : {
 "_class" : "rect",
 "height" : 57,
-"do_objectID" : "6EA2C3B1-A121-4D66-AA58-8E46D7DF4798",
 "constrainProportions" : false,
+"do_objectID" : "6EA2C3B1-A121-4D66-AA58-8E46D7DF4798",
 "x" : 0,
 "width" : 940,
 "y" : 1060
@@ -1556,14 +1550,16 @@
 
 ]
 },
-"glyphBounds" : "{{228, 11}, {484, 46}}",
+"rotation" : 0,
 "dontSynchroniseWithSymbol" : false,
 "lineSpacingBehaviour" : 2,
 "textBehaviour" : 1,
 "isFlippedVertical" : false,
-"nameIsFixed" : false,
+"clippingMaskMode" : 0,
 "name" : "Open BuzzPoints App",
 "isVisible" : true,
+"hasClippingMask" : false,
+"nameIsFixed" : false,
 "resizingType" : 0,
 "userInfo" : {
 "com.animaapp.stc-sketch-plugin" : {
@@ -1572,17 +1568,12 @@
 }
 }
 },
-"clippingMaskMode" : 0,
-"hasClippingMask" : false,
 "isLocked" : false,
 "attributedString" : {
-"string" : "Open BuzzPoints App",
-"_class" : "attributedString",
 "attributes" : [
 {
 "length" : 19,
 "_class" : "stringAttribute",
-"location" : 0,
 "attributes" : {
 "MSAttributedStringFontAttribute" : {
 "attributes" : {
@@ -1604,9 +1595,12 @@
 "_class" : "paragraphStyle",
 "alignment" : 2
 }
+},
+"location" : 0
 }
-}
-]
+],
+"_class" : "attributedString",
+"string" : "Open BuzzPoints App"
 },
 "shouldBreakMaskChain" : false,
 "isFixedToViewport" : false,
@@ -1617,6 +1611,32 @@
 },
 {
 "isFlippedHorizontal" : false,
+"hasConvertedToNewRoundCorners" : true,
+"rotation" : 0,
+"frame" : {
+"_class" : "rect",
+"height" : 750,
+"constrainProportions" : false,
+"do_objectID" : "AB3D5EE0-8532-484C-A4F7-706135403FED",
+"x" : 20,
+"width" : 890,
+"y" : 0
+},
+"do_objectID" : "C1C3E808-72D8-470F-9CCB-A07581D7D3DB",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"shouldTrim" : false,
+"do_objectID" : "92ED9F59-4F2D-421D-AC5E-9A5A52F49A4D",
+"includedLayerIds" : [
+
+],
+"_class" : "exportOptions",
+"layerOptions" : 0,
+"exportFormats" : [
+
+]
+},
+"edited" : false,
 "style" : {
 "_class" : "style",
 "borders" : [
@@ -1659,39 +1679,13 @@
 "windingRule" : 1,
 "endMarkerType" : 0
 },
-"rotation" : 0,
-"frame" : {
-"_class" : "rect",
-"height" : 750,
-"do_objectID" : "AB3D5EE0-8532-484C-A4F7-706135403FED",
-"constrainProportions" : false,
-"x" : 20,
-"width" : 890,
-"y" : 0
-},
-"do_objectID" : "C1C3E808-72D8-470F-9CCB-A07581D7D3DB",
-"layerListExpandedType" : 0,
-"exportOptions" : {
-"shouldTrim" : false,
-"do_objectID" : "92ED9F59-4F2D-421D-AC5E-9A5A52F49A4D",
-"includedLayerIds" : [
-
-],
-"_class" : "exportOptions",
-"layerOptions" : 0,
-"exportFormats" : [
-
-]
-},
-"edited" : false,
-"hasConvertedToNewRoundCorners" : true,
 "isFlippedVertical" : false,
-"nameIsFixed" : true,
+"clippingMaskMode" : 0,
 "name" : "Art",
 "isVisible" : true,
-"resizingType" : 0,
-"clippingMaskMode" : 0,
 "hasClippingMask" : false,
+"nameIsFixed" : true,
+"resizingType" : 0,
 "isClosed" : true,
 "isLocked" : false,
 "points" : [
@@ -1736,10 +1730,10 @@
 "hasCurveFrom" : false
 }
 ],
-"shouldBreakMaskChain" : false,
+"fixedRadius" : 0,
 "pointRadiusBehaviour" : 1,
 "isFixedToViewport" : false,
-"fixedRadius" : 0,
+"shouldBreakMaskChain" : false,
 "_class" : "rectangle",
 "booleanOperation" : -1,
 "resizingConstraint" : 63
@@ -1772,8 +1766,8 @@
 "blue" : 0.2156862745098039,
 "green" : 0.19607843137254899
 },
-"ligature" : 0,
 "kerning" : 0.25,
+"ligature" : 0,
 "paragraphStyle" : {
 "allowsDefaultTighteningForTruncation" : 0,
 "_class" : "paragraphStyle",
@@ -1783,12 +1777,12 @@
 },
 "endMarkerType" : 0
 },
-"rotation" : 0,
+"glyphBounds" : "{{2, 6}, {327, 74}}",
 "frame" : {
 "_class" : "rect",
 "height" : 80,
-"do_objectID" : "DDBC9DE0-21C9-45F7-BD38-9C903F79595D",
 "constrainProportions" : false,
+"do_objectID" : "DDBC9DE0-21C9-45F7-BD38-9C903F79595D",
 "x" : 306.5,
 "width" : 331,
 "y" : 305
@@ -1807,14 +1801,16 @@
 
 ]
 },
-"glyphBounds" : "{{2, 6}, {327, 74}}",
+"rotation" : 0,
 "dontSynchroniseWithSymbol" : false,
 "lineSpacingBehaviour" : 2,
 "textBehaviour" : 0,
 "isFlippedVertical" : false,
-"nameIsFixed" : false,
+"clippingMaskMode" : 0,
 "name" : "Identifying Animatio",
 "isVisible" : true,
+"hasClippingMask" : false,
+"nameIsFixed" : false,
 "resizingType" : 0,
 "userInfo" : {
 "com.animaapp.stc-sketch-plugin" : {
@@ -1823,17 +1819,12 @@
 }
 }
 },
-"clippingMaskMode" : 0,
-"hasClippingMask" : false,
 "isLocked" : false,
 "attributedString" : {
-"string" : "Identifying Animation\n(Pairing to Mobile)",
-"_class" : "attributedString",
 "attributes" : [
 {
 "length" : 41,
 "_class" : "stringAttribute",
-"location" : 0,
 "attributes" : {
 "MSAttributedStringFontAttribute" : {
 "attributes" : {
@@ -1849,16 +1840,19 @@
 "blue" : 0.2156862745098039,
 "green" : 0.19607843137254899
 },
-"ligature" : 0,
 "kerning" : 0.25,
+"ligature" : 0,
 "paragraphStyle" : {
 "allowsDefaultTighteningForTruncation" : 0,
 "_class" : "paragraphStyle",
 "alignment" : 2
 }
+},
+"location" : 0
 }
-}
-]
+],
+"_class" : "attributedString",
+"string" : "Identifying Animation\n(Pairing to Mobile)"
 },
 "shouldBreakMaskChain" : false,
 "isFixedToViewport" : false,
@@ -1868,6 +1862,8 @@
 "automaticallyDrawOnUnderlyingPath" : false
 }
 ],
+"nameIsFixed" : true,
+"resizingType" : 0,
 "isLocked" : false,
 "groupLayout" : {
 "do_objectID" : "8AB738C7-4E5E-46E5-90C9-205963298A2F",
@@ -1907,8 +1903,8 @@
 "blue" : 0.22745098039215689,
 "green" : 0.22745098039215689
 },
-"ligature" : 0,
 "kerning" : -1.09375,
+"ligature" : 0,
 "paragraphStyle" : {
 "allowsDefaultTighteningForTruncation" : 0,
 "_class" : "paragraphStyle",
@@ -1918,12 +1914,12 @@
 },
 "endMarkerType" : 0
 },
-"rotation" : 0,
+"glyphBounds" : "{{213, 18}, {518, 51}}",
 "frame" : {
 "_class" : "rect",
 "height" : 83,
-"do_objectID" : "798230B9-8C64-42C9-A8AF-87B14EE3A826",
 "constrainProportions" : false,
+"do_objectID" : "798230B9-8C64-42C9-A8AF-87B14EE3A826",
 "x" : 70,
 "width" : 940,
 "y" : 105
@@ -1942,14 +1938,16 @@
 
 ]
 },
-"glyphBounds" : "{{213, 18}, {518, 51}}",
+"rotation" : 0,
 "dontSynchroniseWithSymbol" : false,
 "lineSpacingBehaviour" : 2,
 "textBehaviour" : 1,
 "isFlippedVertical" : false,
-"nameIsFixed" : true,
+"clippingMaskMode" : 0,
 "name" : "Title",
 "isVisible" : true,
+"hasClippingMask" : false,
+"nameIsFixed" : true,
 "resizingType" : 0,
 "userInfo" : {
 "com.animaapp.stc-sketch-plugin" : {
@@ -1958,17 +1956,12 @@
 }
 }
 },
-"clippingMaskMode" : 0,
-"hasClippingMask" : false,
 "isLocked" : false,
 "attributedString" : {
-"string" : "BuzzPoints HIVE",
-"_class" : "attributedString",
 "attributes" : [
 {
 "length" : 15,
 "_class" : "stringAttribute",
-"location" : 0,
 "attributes" : {
 "MSAttributedStringFontAttribute" : {
 "attributes" : {
@@ -1984,16 +1977,19 @@
 "blue" : 0.22745098039215689,
 "green" : 0.22745098039215689
 },
-"ligature" : 0,
 "kerning" : -1.09375,
+"ligature" : 0,
 "paragraphStyle" : {
 "allowsDefaultTighteningForTruncation" : 0,
 "_class" : "paragraphStyle",
 "alignment" : 2
 }
+},
+"location" : 0
 }
-}
-]
+],
+"_class" : "attributedString",
+"string" : "BuzzPoints HIVE"
 },
 "shouldBreakMaskChain" : false,
 "isFixedToViewport" : false,
@@ -2003,18 +1999,20 @@
 "automaticallyDrawOnUnderlyingPath" : false
 }
 ],
+"nameIsFixed" : true,
+"resizingType" : 0,
 "isLocked" : false,
 "groupLayout" : {
 "do_objectID" : "EBDFD4EB-3B73-4613-B8A5-1EE0EE9C3E45",
 "_class" : "MSImmutableFreeformGroupLayout"
 },
-"shouldBreakMaskChain" : true,
 "isFlowHome" : false,
+"shouldBreakMaskChain" : true,
 "isFixedToViewport" : false,
 "_class" : "artboard",
 "booleanOperation" : -1,
-"resizingConstraint" : 63,
-"includeBackgroundColorInExport" : true
+"includeBackgroundColorInExport" : true,
+"resizingConstraint" : 63
 },
 {
 "isFlippedHorizontal" : false,
@@ -2026,18 +2024,25 @@
 "startMarkerType" : 0,
 "endMarkerType" : 0
 },
-"rotation" : 0,
+"horizontalRulerData" : {
+"do_objectID" : "AC3577E4-BBDA-4E09-8DEE-669AABF7B623",
+"_class" : "rulerData",
+"base" : 0,
+"guides" : [
+
+]
+},
 "frame" : {
 "_class" : "rect",
 "height" : 1920,
-"do_objectID" : "2C4AB4F4-E86E-42C5-888D-4090ECFF5F91",
 "constrainProportions" : false,
+"do_objectID" : "2C4AB4F4-E86E-42C5-888D-4090ECFF5F91",
 "x" : 858,
 "width" : 1080,
 "y" : -916
 },
 "do_objectID" : "D4A673E7-BCED-412E-A14B-DA8CD853FA12",
-"layerListExpandedType" : 2,
+"hasClickThrough" : false,
 "exportOptions" : {
 "shouldTrim" : false,
 "do_objectID" : "CD76E1DD-2BA9-473A-8C2A-8E402CA5851F",
@@ -2050,16 +2055,9 @@
 
 ]
 },
-"hasClickThrough" : false,
 "hasBackgroundColor" : false,
-"horizontalRulerData" : {
-"do_objectID" : "AC3577E4-BBDA-4E09-8DEE-669AABF7B623",
-"_class" : "rulerData",
-"base" : 0,
-"guides" : [
-
-]
-},
+"includeInCloudUpload" : true,
+"layerListExpandedType" : 2,
 "backgroundColor" : {
 "do_objectID" : "594C1D40-EC89-4B27-A3F5-BA153A07203F",
 "red" : 1,
@@ -2068,8 +2066,8 @@
 "blue" : 1,
 "green" : 1
 },
-"includeInCloudUpload" : true,
 "resizesContent" : false,
+"rotation" : 0,
 "verticalRulerData" : {
 "do_objectID" : "C0D5997A-868C-4994-AB8A-F43ACEC00213",
 "_class" : "rulerData",
@@ -2079,11 +2077,9 @@
 ]
 },
 "isFlippedVertical" : false,
-"nameIsFixed" : true,
+"clippingMaskMode" : 0,
 "name" : "Identified",
 "isVisible" : true,
-"resizingType" : 0,
-"clippingMaskMode" : 0,
 "hasClippingMask" : false,
 "layers" : [
 {
@@ -2114,8 +2110,8 @@
 "blue" : 0.22745098039215689,
 "green" : 0.22745098039215689
 },
-"ligature" : 0,
 "kerning" : -1.09375,
+"ligature" : 0,
 "paragraphStyle" : {
 "allowsDefaultTighteningForTruncation" : 0,
 "_class" : "paragraphStyle",
@@ -2125,12 +2121,12 @@
 },
 "endMarkerType" : 0
 },
-"rotation" : 0,
+"glyphBounds" : "{{213, 18}, {518, 51}}",
 "frame" : {
 "_class" : "rect",
 "height" : 83,
-"do_objectID" : "A0145C00-1195-4679-8644-6007B29612B4",
 "constrainProportions" : false,
+"do_objectID" : "A0145C00-1195-4679-8644-6007B29612B4",
 "x" : 70,
 "width" : 940,
 "y" : 105
@@ -2149,14 +2145,16 @@
 
 ]
 },
-"glyphBounds" : "{{213, 18}, {518, 51}}",
+"rotation" : 0,
 "dontSynchroniseWithSymbol" : false,
 "lineSpacingBehaviour" : 2,
 "textBehaviour" : 1,
 "isFlippedVertical" : false,
-"nameIsFixed" : true,
+"clippingMaskMode" : 0,
 "name" : "Title",
 "isVisible" : true,
+"hasClippingMask" : false,
+"nameIsFixed" : true,
 "resizingType" : 0,
 "userInfo" : {
 "com.animaapp.stc-sketch-plugin" : {
@@ -2165,17 +2163,12 @@
 }
 }
 },
-"clippingMaskMode" : 0,
-"hasClippingMask" : false,
 "isLocked" : false,
 "attributedString" : {
-"string" : "BuzzPoints HIVE",
-"_class" : "attributedString",
 "attributes" : [
 {
 "length" : 15,
 "_class" : "stringAttribute",
-"location" : 0,
 "attributes" : {
 "MSAttributedStringFontAttribute" : {
 "attributes" : {
@@ -2191,16 +2184,19 @@
 "blue" : 0.22745098039215689,
 "green" : 0.22745098039215689
 },
-"ligature" : 0,
 "kerning" : -1.09375,
+"ligature" : 0,
 "paragraphStyle" : {
 "allowsDefaultTighteningForTruncation" : 0,
 "_class" : "paragraphStyle",
 "alignment" : 2
 }
+},
+"location" : 0
 }
-}
-]
+],
+"_class" : "attributedString",
+"string" : "BuzzPoints HIVE"
 },
 "shouldBreakMaskChain" : false,
 "isFixedToViewport" : false,
@@ -2223,14 +2219,14 @@
 "frame" : {
 "_class" : "rect",
 "height" : 500,
-"do_objectID" : "914EDFF1-257B-4E8B-80FB-9467F630C71D",
 "constrainProportions" : false,
+"do_objectID" : "914EDFF1-257B-4E8B-80FB-9467F630C71D",
 "x" : 90,
 "width" : 890,
 "y" : 300
 },
 "do_objectID" : "44B31F85-2FBE-4FC9-A4CF-672931057758",
-"layerListExpandedType" : 0,
+"hasClickThrough" : false,
 "exportOptions" : {
 "shouldTrim" : false,
 "do_objectID" : "F4C55C63-9272-4E23-A676-850B87B35095",
@@ -2243,17 +2239,41 @@
 
 ]
 },
-"hasClickThrough" : false,
+"layerListExpandedType" : 0,
 "isFlippedVertical" : false,
-"nameIsFixed" : true,
+"clippingMaskMode" : 0,
 "name" : "Campaign",
 "isVisible" : true,
-"resizingType" : 0,
-"clippingMaskMode" : 0,
 "hasClippingMask" : false,
 "layers" : [
 {
 "isFlippedHorizontal" : false,
+"hasConvertedToNewRoundCorners" : true,
+"rotation" : 0,
+"frame" : {
+"_class" : "rect",
+"height" : 500,
+"constrainProportions" : false,
+"do_objectID" : "DFCEC25F-D3AC-4761-918E-5C45394AC270",
+"x" : 0,
+"width" : 890,
+"y" : 0
+},
+"do_objectID" : "48CA3112-7004-435F-889D-67CBA18A5D0E",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"shouldTrim" : false,
+"do_objectID" : "A2F8F155-3E74-4762-AAE4-3DBEC78A03CB",
+"includedLayerIds" : [
+
+],
+"_class" : "exportOptions",
+"layerOptions" : 0,
+"exportFormats" : [
+
+]
+},
+"edited" : false,
 "style" : {
 "_class" : "style",
 "borders" : [
@@ -2296,39 +2316,13 @@
 "windingRule" : 1,
 "endMarkerType" : 0
 },
-"rotation" : 0,
-"frame" : {
-"_class" : "rect",
-"height" : 500,
-"do_objectID" : "DFCEC25F-D3AC-4761-918E-5C45394AC270",
-"constrainProportions" : false,
-"x" : 0,
-"width" : 890,
-"y" : 0
-},
-"do_objectID" : "48CA3112-7004-435F-889D-67CBA18A5D0E",
-"layerListExpandedType" : 0,
-"exportOptions" : {
-"shouldTrim" : false,
-"do_objectID" : "A2F8F155-3E74-4762-AAE4-3DBEC78A03CB",
-"includedLayerIds" : [
-
-],
-"_class" : "exportOptions",
-"layerOptions" : 0,
-"exportFormats" : [
-
-]
-},
-"edited" : false,
-"hasConvertedToNewRoundCorners" : true,
 "isFlippedVertical" : false,
-"nameIsFixed" : true,
+"clippingMaskMode" : 0,
 "name" : "Art",
 "isVisible" : true,
-"resizingType" : 0,
-"clippingMaskMode" : 0,
 "hasClippingMask" : false,
+"nameIsFixed" : true,
+"resizingType" : 0,
 "isClosed" : true,
 "isLocked" : false,
 "points" : [
@@ -2373,10 +2367,10 @@
 "hasCurveFrom" : false
 }
 ],
-"shouldBreakMaskChain" : false,
+"fixedRadius" : 0,
 "pointRadiusBehaviour" : 1,
 "isFixedToViewport" : false,
-"fixedRadius" : 0,
+"shouldBreakMaskChain" : false,
 "_class" : "rectangle",
 "booleanOperation" : -1,
 "resizingConstraint" : 63
@@ -2409,8 +2403,8 @@
 "blue" : 0.2156862745098039,
 "green" : 0.19607843137254899
 },
-"ligature" : 0,
 "kerning" : 0.25,
+"ligature" : 0,
 "paragraphStyle" : {
 "allowsDefaultTighteningForTruncation" : 0,
 "_class" : "paragraphStyle",
@@ -2420,12 +2414,12 @@
 },
 "endMarkerType" : 0
 },
-"rotation" : 0,
+"glyphBounds" : "{{2, 6}, {249, 34}}",
 "frame" : {
 "_class" : "rect",
 "height" : 40,
-"do_objectID" : "8EFAFCED-0681-4A27-8D84-513264A32402",
 "constrainProportions" : false,
+"do_objectID" : "8EFAFCED-0681-4A27-8D84-513264A32402",
 "x" : 325,
 "width" : 252,
 "y" : 225
@@ -2444,14 +2438,16 @@
 
 ]
 },
-"glyphBounds" : "{{2, 6}, {249, 34}}",
+"rotation" : 0,
 "dontSynchroniseWithSymbol" : false,
 "lineSpacingBehaviour" : 2,
 "textBehaviour" : 0,
 "isFlippedVertical" : false,
-"nameIsFixed" : false,
+"clippingMaskMode" : 0,
 "name" : "Identified Image",
 "isVisible" : true,
+"hasClippingMask" : false,
+"nameIsFixed" : false,
 "resizingType" : 0,
 "userInfo" : {
 "com.animaapp.stc-sketch-plugin" : {
@@ -2460,17 +2456,12 @@
 }
 }
 },
-"clippingMaskMode" : 0,
-"hasClippingMask" : false,
 "isLocked" : false,
 "attributedString" : {
-"string" : "Identified Image",
-"_class" : "attributedString",
 "attributes" : [
 {
 "length" : 16,
 "_class" : "stringAttribute",
-"location" : 0,
 "attributes" : {
 "MSAttributedStringFontAttribute" : {
 "attributes" : {
@@ -2486,16 +2477,19 @@
 "blue" : 0.2156862745098039,
 "green" : 0.19607843137254899
 },
-"ligature" : 0,
 "kerning" : 0.25,
+"ligature" : 0,
 "paragraphStyle" : {
 "allowsDefaultTighteningForTruncation" : 0,
 "_class" : "paragraphStyle",
 "alignment" : 2
 }
+},
+"location" : 0
 }
-}
-]
+],
+"_class" : "attributedString",
+"string" : "Identified Image"
 },
 "shouldBreakMaskChain" : false,
 "isFixedToViewport" : false,
@@ -2505,6 +2499,8 @@
 "automaticallyDrawOnUnderlyingPath" : false
 }
 ],
+"nameIsFixed" : true,
+"resizingType" : 0,
 "isLocked" : false,
 "groupLayout" : {
 "do_objectID" : "6DA7B522-26B1-4C21-A827-3CDD0E5E9E8D",
@@ -2530,14 +2526,14 @@
 "frame" : {
 "_class" : "rect",
 "height" : 348,
-"do_objectID" : "84AA4858-2BFB-4F11-A7DC-EE0819A1748A",
 "constrainProportions" : false,
+"do_objectID" : "84AA4858-2BFB-4F11-A7DC-EE0819A1748A",
 "x" : 70,
 "width" : 940,
 "y" : 850
 },
 "do_objectID" : "55ABB621-C34D-4922-9893-855D8F0CC6E0",
-"layerListExpandedType" : 1,
+"hasClickThrough" : false,
 "exportOptions" : {
 "shouldTrim" : false,
 "do_objectID" : "D4F8FF87-9E53-4197-B046-F8BF241E5C07",
@@ -2550,13 +2546,11 @@
 
 ]
 },
-"hasClickThrough" : false,
+"layerListExpandedType" : 1,
 "isFlippedVertical" : false,
-"nameIsFixed" : false,
+"clippingMaskMode" : 0,
 "name" : "Group",
 "isVisible" : true,
-"resizingType" : 0,
-"clippingMaskMode" : 0,
 "hasClippingMask" : false,
 "layers" : [
 {
@@ -2580,7 +2574,6 @@
 },
 "_class" : "fontDescriptor"
 },
-"ligature" : 0,
 "MSAttributedStringColorAttribute" : {
 "red" : 0.1372549019607843,
 "_class" : "color",
@@ -2588,6 +2581,7 @@
 "blue" : 0.2156862745098039,
 "green" : 0.19607843137254899
 },
+"ligature" : 0,
 "paragraphStyle" : {
 "allowsDefaultTighteningForTruncation" : 0,
 "_class" : "paragraphStyle",
@@ -2597,12 +2591,12 @@
 },
 "endMarkerType" : 0
 },
-"rotation" : 0,
+"glyphBounds" : "{{365, 10}, {211, 46}}",
 "frame" : {
 "_class" : "rect",
 "height" : 57,
-"do_objectID" : "41FE2C91-0A3E-4AD0-8221-E6A8CCD0820F",
 "constrainProportions" : false,
+"do_objectID" : "41FE2C91-0A3E-4AD0-8221-E6A8CCD0820F",
 "x" : 0,
 "width" : 940,
 "y" : 0
@@ -2621,14 +2615,16 @@
 
 ]
 },
-"glyphBounds" : "{{365, 10}, {211, 46}}",
+"rotation" : 0,
 "dontSynchroniseWithSymbol" : false,
 "lineSpacingBehaviour" : 2,
 "textBehaviour" : 1,
 "isFlippedVertical" : false,
-"nameIsFixed" : false,
+"clippingMaskMode" : 0,
 "name" : "Hi Tyrone!",
 "isVisible" : true,
+"hasClippingMask" : false,
+"nameIsFixed" : false,
 "resizingType" : 0,
 "userInfo" : {
 "com.animaapp.stc-sketch-plugin" : {
@@ -2637,17 +2633,12 @@
 }
 }
 },
-"clippingMaskMode" : 0,
-"hasClippingMask" : false,
 "isLocked" : false,
 "attributedString" : {
-"string" : "Hi Tyrone!",
-"_class" : "attributedString",
 "attributes" : [
 {
 "length" : 10,
 "_class" : "stringAttribute",
-"location" : 0,
 "attributes" : {
 "MSAttributedStringFontAttribute" : {
 "attributes" : {
@@ -2669,9 +2660,12 @@
 "_class" : "paragraphStyle",
 "alignment" : 2
 }
+},
+"location" : 0
 }
-}
-]
+],
+"_class" : "attributedString",
+"string" : "Hi Tyrone!"
 },
 "shouldBreakMaskChain" : false,
 "isFixedToViewport" : false,
@@ -2694,7 +2688,6 @@
 "_class" : "textStyle",
 "verticalAlignment" : 0,
 "encodedAttributes" : {
-"ligature" : 0,
 "MSAttributedStringFontAttribute" : {
 "attributes" : {
 "name" : "HelveticaNeue-Medium",
@@ -2709,6 +2702,7 @@
 "blue" : 0.22745098039215689,
 "green" : 0.22745098039215689
 },
+"ligature" : 0,
 "paragraphStyle" : {
 "allowsDefaultTighteningForTruncation" : 0,
 "_class" : "paragraphStyle",
@@ -2718,12 +2712,12 @@
 },
 "endMarkerType" : 0
 },
-"rotation" : 0,
+"glyphBounds" : "{{23, 11}, {891, 217}}",
 "frame" : {
 "_class" : "rect",
 "height" : 228,
-"do_objectID" : "3B488418-7DD0-4380-B8AC-3A68FDFF1436",
 "constrainProportions" : false,
+"do_objectID" : "3B488418-7DD0-4380-B8AC-3A68FDFF1436",
 "x" : 0,
 "width" : 940,
 "y" : 120
@@ -2742,14 +2736,16 @@
 
 ]
 },
-"glyphBounds" : "{{23, 11}, {891, 217}}",
+"rotation" : 0,
 "dontSynchroniseWithSymbol" : false,
 "lineSpacingBehaviour" : 2,
 "textBehaviour" : 1,
 "isFlippedVertical" : false,
-"nameIsFixed" : false,
+"clippingMaskMode" : 0,
 "name" : "Welcome to the [Camp",
 "isVisible" : true,
+"hasClippingMask" : false,
+"nameIsFixed" : false,
 "resizingType" : 0,
 "userInfo" : {
 "com.animaapp.stc-sketch-plugin" : {
@@ -2758,17 +2754,12 @@
 }
 }
 },
-"clippingMaskMode" : 0,
-"hasClippingMask" : false,
 "isLocked" : false,
 "attributedString" : {
-"string" : "Welcome to the [Campaign Name] HIVE.\n\nYou are now eligible to multiply your buzzpoints by",
-"_class" : "attributedString",
 "attributes" : [
 {
 "length" : 89,
 "_class" : "stringAttribute",
-"location" : 0,
 "attributes" : {
 "MSAttributedStringFontAttribute" : {
 "attributes" : {
@@ -2790,9 +2781,12 @@
 "_class" : "paragraphStyle",
 "alignment" : 2
 }
+},
+"location" : 0
 }
-}
-]
+],
+"_class" : "attributedString",
+"string" : "Welcome to the [Campaign Name] HIVE.\n\nYou are now eligible to multiply your buzzpoints by"
 },
 "shouldBreakMaskChain" : false,
 "isFixedToViewport" : false,
@@ -2802,6 +2796,8 @@
 "automaticallyDrawOnUnderlyingPath" : false
 }
 ],
+"nameIsFixed" : false,
+"resizingType" : 0,
 "isLocked" : false,
 "groupLayout" : {
 "do_objectID" : "49A0D4F0-1AC8-42C8-BD36-403205A7BB7D",
@@ -2827,14 +2823,14 @@
 "frame" : {
 "_class" : "rect",
 "height" : 466,
-"do_objectID" : "1AEC9118-46EC-42E5-A01C-FFF68FD5BC11",
 "constrainProportions" : false,
+"do_objectID" : "1AEC9118-46EC-42E5-A01C-FFF68FD5BC11",
 "x" : 70,
 "width" : 940,
 "y" : 1250
 },
 "do_objectID" : "2F4F2623-4BF6-47F2-9868-A4B768774882",
-"layerListExpandedType" : 1,
+"hasClickThrough" : false,
 "exportOptions" : {
 "shouldTrim" : false,
 "do_objectID" : "83DC7CE0-4BBD-4CB5-AD20-538BB668E750",
@@ -2847,13 +2843,11 @@
 
 ]
 },
-"hasClickThrough" : false,
+"layerListExpandedType" : 1,
 "isFlippedVertical" : false,
-"nameIsFixed" : true,
+"clippingMaskMode" : 0,
 "name" : "Timing",
 "isVisible" : true,
-"resizingType" : 0,
-"clippingMaskMode" : 0,
 "hasClippingMask" : false,
 "layers" : [
 {
@@ -2884,8 +2878,8 @@
 "blue" : 0.2156862745098039,
 "green" : 0.19607843137254899
 },
-"ligature" : 0,
 "kerning" : -2.34375,
+"ligature" : 0,
 "paragraphStyle" : {
 "allowsDefaultTighteningForTruncation" : 0,
 "_class" : "paragraphStyle",
@@ -2895,12 +2889,12 @@
 },
 "endMarkerType" : 0
 },
-"rotation" : 0,
+"glyphBounds" : "{{12, 30}, {246, 111}}",
 "frame" : {
 "_class" : "rect",
 "height" : 176,
-"do_objectID" : "49D192EA-84CA-48F5-B014-BB11DDFF13F8",
 "constrainProportions" : false,
+"do_objectID" : "49D192EA-84CA-48F5-B014-BB11DDFF13F8",
 "x" : 340,
 "width" : 259,
 "y" : 0
@@ -2919,14 +2913,16 @@
 
 ]
 },
-"glyphBounds" : "{{12, 30}, {246, 111}}",
+"rotation" : 0,
 "dontSynchroniseWithSymbol" : false,
 "lineSpacingBehaviour" : 2,
 "textBehaviour" : 0,
 "isFlippedVertical" : false,
-"nameIsFixed" : false,
+"clippingMaskMode" : 0,
 "name" : "10X",
 "isVisible" : true,
+"hasClippingMask" : false,
+"nameIsFixed" : false,
 "resizingType" : 0,
 "userInfo" : {
 "com.animaapp.stc-sketch-plugin" : {
@@ -2935,17 +2931,12 @@
 }
 }
 },
-"clippingMaskMode" : 0,
-"hasClippingMask" : false,
 "isLocked" : false,
 "attributedString" : {
-"string" : "10X",
-"_class" : "attributedString",
 "attributes" : [
 {
 "length" : 3,
 "_class" : "stringAttribute",
-"location" : 0,
 "attributes" : {
 "MSAttributedStringFontAttribute" : {
 "attributes" : {
@@ -2961,16 +2952,19 @@
 "blue" : 0.2156862745098039,
 "green" : 0.19607843137254899
 },
-"ligature" : 0,
 "kerning" : -2.34375,
+"ligature" : 0,
 "paragraphStyle" : {
 "allowsDefaultTighteningForTruncation" : 0,
 "_class" : "paragraphStyle",
 "alignment" : 2
 }
+},
+"location" : 0
 }
-}
-]
+],
+"_class" : "attributedString",
+"string" : "10X"
 },
 "shouldBreakMaskChain" : false,
 "isFixedToViewport" : false,
@@ -3007,8 +3001,8 @@
 "blue" : 0.2156862745098039,
 "green" : 0.19607843137254899
 },
-"ligature" : 0,
 "kerning" : -2.34375,
+"ligature" : 0,
 "paragraphStyle" : {
 "allowsDefaultTighteningForTruncation" : 0,
 "_class" : "paragraphStyle",
@@ -3018,12 +3012,12 @@
 },
 "endMarkerType" : 0
 },
-"rotation" : 0,
+"glyphBounds" : "{{5, 30}, {541, 111}}",
 "frame" : {
 "_class" : "rect",
 "height" : 176,
-"do_objectID" : "4DF8338C-C898-46D6-9548-83680F4E7AFB",
 "constrainProportions" : false,
+"do_objectID" : "4DF8338C-C898-46D6-9548-83680F4E7AFB",
 "x" : 185,
 "width" : 573,
 "y" : 290
@@ -3042,14 +3036,16 @@
 
 ]
 },
-"glyphBounds" : "{{5, 30}, {541, 111}}",
+"rotation" : 0,
 "dontSynchroniseWithSymbol" : false,
 "lineSpacingBehaviour" : 2,
 "textBehaviour" : 0,
 "isFlippedVertical" : false,
-"nameIsFixed" : false,
+"clippingMaskMode" : 0,
 "name" : "23:59:31",
 "isVisible" : true,
+"hasClippingMask" : false,
+"nameIsFixed" : false,
 "resizingType" : 0,
 "userInfo" : {
 "com.animaapp.stc-sketch-plugin" : {
@@ -3058,17 +3054,12 @@
 }
 }
 },
-"clippingMaskMode" : 0,
-"hasClippingMask" : false,
 "isLocked" : false,
 "attributedString" : {
-"string" : "23:59:31",
-"_class" : "attributedString",
 "attributes" : [
 {
 "length" : 8,
 "_class" : "stringAttribute",
-"location" : 0,
 "attributes" : {
 "MSAttributedStringFontAttribute" : {
 "attributes" : {
@@ -3084,16 +3075,19 @@
 "blue" : 0.2156862745098039,
 "green" : 0.19607843137254899
 },
-"ligature" : 0,
 "kerning" : -2.34375,
+"ligature" : 0,
 "paragraphStyle" : {
 "allowsDefaultTighteningForTruncation" : 0,
 "_class" : "paragraphStyle",
 "alignment" : 2
 }
+},
+"location" : 0
 }
-}
-]
+],
+"_class" : "attributedString",
+"string" : "23:59:31"
 },
 "shouldBreakMaskChain" : false,
 "isFixedToViewport" : false,
@@ -3116,7 +3110,6 @@
 "_class" : "textStyle",
 "verticalAlignment" : 0,
 "encodedAttributes" : {
-"ligature" : 0,
 "MSAttributedStringFontAttribute" : {
 "attributes" : {
 "name" : "HelveticaNeue-Medium",
@@ -3131,6 +3124,7 @@
 "blue" : 0.22745098039215689,
 "green" : 0.22745098039215689
 },
+"ligature" : 0,
 "paragraphStyle" : {
 "allowsDefaultTighteningForTruncation" : 0,
 "_class" : "paragraphStyle",
@@ -3140,12 +3134,12 @@
 },
 "endMarkerType" : 0
 },
-"rotation" : 0,
+"glyphBounds" : "{{340, 12}, {263, 36}}",
 "frame" : {
 "_class" : "rect",
 "height" : 57,
-"do_objectID" : "07C87E5D-2C93-4D78-8531-F1F204EBFF89",
 "constrainProportions" : false,
+"do_objectID" : "07C87E5D-2C93-4D78-8531-F1F204EBFF89",
 "x" : 0,
 "width" : 940,
 "y" : 243
@@ -3164,14 +3158,16 @@
 
 ]
 },
-"glyphBounds" : "{{340, 12}, {263, 36}}",
+"rotation" : 0,
 "dontSynchroniseWithSymbol" : false,
 "lineSpacingBehaviour" : 2,
 "textBehaviour" : 1,
 "isFlippedVertical" : false,
-"nameIsFixed" : false,
+"clippingMaskMode" : 0,
 "name" : "For the next",
 "isVisible" : true,
+"hasClippingMask" : false,
+"nameIsFixed" : false,
 "resizingType" : 0,
 "userInfo" : {
 "com.animaapp.stc-sketch-plugin" : {
@@ -3180,17 +3176,12 @@
 }
 }
 },
-"clippingMaskMode" : 0,
-"hasClippingMask" : false,
 "isLocked" : false,
 "attributedString" : {
-"string" : "For the next",
-"_class" : "attributedString",
 "attributes" : [
 {
 "length" : 12,
 "_class" : "stringAttribute",
-"location" : 0,
 "attributes" : {
 "MSAttributedStringFontAttribute" : {
 "attributes" : {
@@ -3212,9 +3203,12 @@
 "_class" : "paragraphStyle",
 "alignment" : 2
 }
+},
+"location" : 0
 }
-}
-]
+],
+"_class" : "attributedString",
+"string" : "For the next"
 },
 "shouldBreakMaskChain" : false,
 "isFixedToViewport" : false,
@@ -3224,6 +3218,8 @@
 "automaticallyDrawOnUnderlyingPath" : false
 }
 ],
+"nameIsFixed" : true,
+"resizingType" : 0,
 "isLocked" : false,
 "groupLayout" : {
 "do_objectID" : "B222ABFE-DCDC-498D-A7B8-2CEE57CAF930",
@@ -3249,14 +3245,6 @@
 "_class" : "textStyle",
 "verticalAlignment" : 0,
 "encodedAttributes" : {
-"ligature" : 0,
-"MSAttributedStringColorAttribute" : {
-"red" : 0.22745098039215689,
-"_class" : "color",
-"alpha" : 1,
-"blue" : 0.22745098039215689,
-"green" : 0.22745098039215689
-},
 "MSAttributedStringFontAttribute" : {
 "attributes" : {
 "name" : "HelveticaNeue-Medium",
@@ -3264,6 +3252,14 @@
 },
 "_class" : "fontDescriptor"
 },
+"MSAttributedStringColorAttribute" : {
+"red" : 0.22745098039215689,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.22745098039215689,
+"green" : 0.22745098039215689
+},
+"ligature" : 0,
 "paragraphStyle" : {
 "allowsDefaultTighteningForTruncation" : 0,
 "_class" : "paragraphStyle",
@@ -3273,12 +3269,12 @@
 },
 "endMarkerType" : 0
 },
-"rotation" : 0,
+"glyphBounds" : "{{109, 11}, {723, 46}}",
 "frame" : {
 "_class" : "rect",
 "height" : 57,
-"do_objectID" : "6238AEF7-916D-4C0D-A3AF-22654071ECC8",
 "constrainProportions" : false,
+"do_objectID" : "6238AEF7-916D-4C0D-A3AF-22654071ECC8",
 "x" : 70,
 "width" : 940,
 "y" : 1830
@@ -3297,14 +3293,16 @@
 
 ]
 },
-"glyphBounds" : "{{109, 11}, {723, 46}}",
+"rotation" : 0,
 "dontSynchroniseWithSymbol" : false,
 "lineSpacingBehaviour" : 2,
 "textBehaviour" : 1,
 "isFlippedVertical" : false,
-"nameIsFixed" : false,
+"clippingMaskMode" : 0,
 "name" : "Check your phone for",
 "isVisible" : true,
+"hasClippingMask" : false,
+"nameIsFixed" : false,
 "resizingType" : 0,
 "userInfo" : {
 "com.animaapp.stc-sketch-plugin" : {
@@ -3313,17 +3311,12 @@
 }
 }
 },
-"clippingMaskMode" : 0,
-"hasClippingMask" : false,
 "isLocked" : false,
 "attributedString" : {
-"string" : "Check your phone for conditions",
-"_class" : "attributedString",
 "attributes" : [
 {
 "length" : 31,
 "_class" : "stringAttribute",
-"location" : 0,
 "attributes" : {
 "MSAttributedStringFontAttribute" : {
 "attributes" : {
@@ -3345,9 +3338,12 @@
 "_class" : "paragraphStyle",
 "alignment" : 2
 }
+},
+"location" : 0
 }
-}
-]
+],
+"_class" : "attributedString",
+"string" : "Check your phone for conditions"
 },
 "shouldBreakMaskChain" : false,
 "isFixedToViewport" : false,
@@ -3357,20 +3353,24 @@
 "automaticallyDrawOnUnderlyingPath" : false
 }
 ],
+"nameIsFixed" : true,
+"resizingType" : 0,
 "isLocked" : false,
 "groupLayout" : {
 "do_objectID" : "DB4570AA-006D-468B-8BCC-A5220E142C59",
 "_class" : "MSImmutableFreeformGroupLayout"
 },
-"shouldBreakMaskChain" : true,
 "isFlowHome" : false,
+"shouldBreakMaskChain" : true,
 "isFixedToViewport" : false,
 "_class" : "artboard",
 "booleanOperation" : -1,
-"resizingConstraint" : 63,
-"includeBackgroundColorInExport" : true
+"includeBackgroundColorInExport" : true,
+"resizingConstraint" : 63
 }
 ],
+"nameIsFixed" : true,
+"resizingType" : 0,
 "isLocked" : false,
 "groupLayout" : {
 "_class" : "MSImmutableFreeformGroupLayout"
