@@ -1,6 +1,21 @@
 {
 "commit" : "399b83655ed261b257875cf8e762efa1a649509e",
-"build" : 76490,
+"pagesAndArtboards" : {
+"9C092F58-1AED-4E94-9F55-7F9900487CA0" : {
+"name" : "Grid System",
+"artboards" : {
+"8359990D-57EE-43CD-9094-6CA3DF4537AD" : {
+"name" : "mobile"
+},
+"FD5B9BA6-FFC3-4FAF-9F6B-342B530F606E" : {
+"name" : "tablet"
+},
+"1067FA78-F4E3-4AB3-BB7E-ED87BB67003B" : {
+"name" : "desktop"
+}
+}
+}
+},
 "version" : 118,
 "fonts" : [
 
@@ -10,9 +25,9 @@
 "autosaved" : 0,
 "variant" : "NONAPPSTORE",
 "created" : {
-"commit" : "399b83655ed261b257875cf8e762efa1a649509e",
-"appVersion" : "54.1",
 "build" : 76490,
+"appVersion" : "54.1",
+"commit" : "399b83655ed261b257875cf8e762efa1a649509e",
 "app" : "com.bohemiancoding.sketch3",
 "compatibilityVersion" : 99,
 "version" : 118,
@@ -22,14 +37,5 @@
 "NONAPPSTORE.76490"
 ],
 "appVersion" : "54.1",
-"pagesAndArtboards" : {
-"9C092F58-1AED-4E94-9F55-7F9900487CA0" : {
-"name" : "Page 1",
-"artboards" : {
-"8359990D-57EE-43CD-9094-6CA3DF4537AD" : {
-"name" : "Desktop"
-}
-}
-}
-}
+"build" : 76490
 }
