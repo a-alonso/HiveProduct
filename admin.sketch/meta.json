@@ -77,13 +77,14 @@
 },
 "version" : 118,
 "fonts" : [
-"Roboto-Regular",
 "Roboto-Medium",
-"HelveticaNeue"
+"HelveticaNeue",
+"Helvetica",
+"Roboto-Regular"
 ],
 "compatibilityVersion" : 99,
 "app" : "com.bohemiancoding.sketch3",
-"autosaved" : 1,
+"autosaved" : 0,
 "variant" : "NONAPPSTORE",
 "created" : {
 "build" : 76490,
