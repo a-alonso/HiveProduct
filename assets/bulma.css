@@ -4521,7 +4521,7 @@ fieldset[disabled] .select select:hover {
 }
 
 .image.is-2by3 {
-  padding-top: 150%;
+  padding-top: 0;
 }
 
 .image.is-3by5 {
