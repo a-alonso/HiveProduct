@@ -1,11 +1,11 @@
 {
 "isFlippedHorizontal" : false,
 "style" : {
-"endMarkerType" : 0,
+"_class" : "style",
 "startMarkerType" : 0,
 "miterLimit" : 10,
 "windingRule" : 1,
-"_class" : "style"
+"endMarkerType" : 0
 },
 "horizontalRulerData" : {
 "base" : 0,
@@ -16,24 +16,24 @@
 },
 "frame" : {
 "y" : 0,
-"width" : 0,
+"height" : 0,
 "constrainProportions" : false,
+"width" : 0,
 "x" : 0,
-"_class" : "rect",
-"height" : 0
+"_class" : "rect"
 },
 "do_objectID" : "9C092F58-1AED-4E94-9F55-7F9900487CA0",
 "hasClickThrough" : true,
 "exportOptions" : {
-"exportFormats" : [
-
-],
+"shouldTrim" : false,
 "includedLayerIds" : [
 
 ],
 "layerOptions" : 0,
 "_class" : "exportOptions",
-"shouldTrim" : false
+"exportFormats" : [
+
+]
 },
 "includeInCloudUpload" : true,
 "layerListExpandedType" : 0,
@@ -77,11 +77,11 @@
 "hasBackgroundColor" : false,
 "isFlowHome" : false,
 "presetDictionary" : {
-"allowResizedMatching" : 0,
+"name" : "Android",
 "offersLandscapeVariant" : 1,
 "width" : 360,
-"height" : 640,
-"name" : "Android"
+"allowResizedMatching" : 0,
+"height" : 640
 },
 "isLocked" : false,
 "backgroundColor" : {
@@ -97,22 +97,22 @@
 "isVisible" : true,
 "hasClippingMask" : false,
 "style" : {
-"endMarkerType" : 0,
+"_class" : "style",
 "startMarkerType" : 0,
 "miterLimit" : 10,
 "windingRule" : 1,
-"_class" : "style"
+"endMarkerType" : 0
 },
 "exportOptions" : {
-"exportFormats" : [
-
-],
+"shouldTrim" : false,
 "includedLayerIds" : [
 
 ],
 "layerOptions" : 0,
 "_class" : "exportOptions",
-"shouldTrim" : false
+"exportFormats" : [
+
+]
 },
 "name" : "mobile",
 "resizingType" : 0,
@@ -126,11 +126,11 @@
 },
 "frame" : {
 "y" : -112,
-"width" : 360,
+"height" : 640,
 "constrainProportions" : false,
+"width" : 360,
 "x" : 19,
-"_class" : "rect",
-"height" : 640
+"_class" : "rect"
 },
 "layout" : {
 "columnWidth" : 160,
@@ -179,11 +179,11 @@
 "hasBackgroundColor" : true,
 "isFlowHome" : false,
 "presetDictionary" : {
-"allowResizedMatching" : 0,
+"name" : "Desktop HD",
 "offersLandscapeVariant" : 0,
 "width" : 1440,
-"height" : 1024,
-"name" : "Desktop HD"
+"allowResizedMatching" : 0,
+"height" : 1024
 },
 "isLocked" : false,
 "backgroundColor" : {
@@ -201,7 +201,7 @@
 "hasClippingMask" : false,
 "style" : {
 "_class" : "style",
-"endMarkerType" : 0,
+"miterLimit" : 10,
 "do_objectID" : "F3608E89-EB11-4D84-8702-CE17054EF076",
 "fills" : [
 {
@@ -223,19 +223,19 @@
 ],
 "startMarkerType" : 0,
 "windingRule" : 1,
-"miterLimit" : 10
+"endMarkerType" : 0
 },
 "exportOptions" : {
-"exportFormats" : [
-
-],
+"shouldTrim" : false,
 "do_objectID" : "4AA91D1F-7975-4E01-BD65-0B712FE85FE5",
 "includedLayerIds" : [
 
 ],
 "_class" : "exportOptions",
 "layerOptions" : 0,
-"shouldTrim" : false
+"exportFormats" : [
+
+]
 },
 "name" : "desktop",
 "resizingType" : 0,
@@ -258,7 +258,7 @@
 "y" : -112
 },
 "layout" : {
-"do_objectID" : "DC5B4252-6758-46ED-8B94-A9FD42D94DD3",
+"drawHorizontal" : false,
 "columnWidth" : 68,
 "totalWidth" : 1128,
 "drawHorizontalLines" : false,
@@ -268,10 +268,10 @@
 "isEnabled" : true,
 "guttersOutside" : false,
 "numberOfColumns" : 12,
+"do_objectID" : "DC5B4252-6758-46ED-8B94-A9FD42D94DD3",
 "gutterHeight" : 12,
 "rowHeightMultiplication" : 5,
-"drawVertical" : true,
-"drawHorizontal" : false
+"drawVertical" : true
 },
 "layerListExpandedType" : 0,
 "isFlippedHorizontal" : false,
@@ -312,11 +312,11 @@
 },
 "isFlowHome" : false,
 "presetDictionary" : {
-"allowResizedMatching" : 0,
+"name" : "Nexus 9",
 "offersLandscapeVariant" : 1,
 "width" : 768,
-"height" : 1024,
-"name" : "Nexus 9"
+"allowResizedMatching" : 0,
+"height" : 1024
 },
 "isLocked" : false,
 "backgroundColor" : {
@@ -334,7 +334,7 @@
 "hasClippingMask" : false,
 "style" : {
 "_class" : "style",
-"endMarkerType" : 0,
+"miterLimit" : 10,
 "do_objectID" : "0532E423-C98A-4D11-80B1-15C34D19A0BA",
 "fills" : [
 {
@@ -356,19 +356,19 @@
 ],
 "startMarkerType" : 0,
 "windingRule" : 1,
-"miterLimit" : 10
+"endMarkerType" : 0
 },
 "exportOptions" : {
-"exportFormats" : [
-
-],
+"shouldTrim" : false,
 "do_objectID" : "A41F35AF-288C-4296-9ADD-6523BC0C50E2",
 "includedLayerIds" : [
 
 ],
 "_class" : "exportOptions",
 "layerOptions" : 0,
-"shouldTrim" : false
+"exportFormats" : [
+
+]
 },
 "name" : "tablet",
 "resizingType" : 0,
@@ -391,7 +391,7 @@
 "y" : -111.9999999999999
 },
 "layout" : {
-"do_objectID" : "86B6816F-205D-4C79-880C-C95B071BF063",
+"drawHorizontal" : false,
 "columnWidth" : 68.25,
 "totalWidth" : 728,
 "drawHorizontalLines" : false,
@@ -401,10 +401,10 @@
 "isEnabled" : true,
 "guttersOutside" : false,
 "numberOfColumns" : 8,
+"do_objectID" : "86B6816F-205D-4C79-880C-C95B071BF063",
 "gutterHeight" : 4,
 "rowHeightMultiplication" : 1,
-"drawVertical" : true,
-"drawHorizontal" : false
+"drawVertical" : true
 },
 "layerListExpandedType" : 2,
 "isFlippedHorizontal" : false,
